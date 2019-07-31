@@ -1,0 +1,353 @@
+@relation 'testing1-weka.filters.unsupervised.attribute.Add-TNOM-NNewNominal-Lactivity,scenic-Clast'
+
+@attribute text string
+@attribute NewNominal {activity,scenic}
+
+@data
+'actually walk',?
+'beautiful lake',?
+'see the water',?
+'water monitor as',?
+'actually walk',?
+'beautiful lake',?
+'just a large',?
+'colorful lights',?
+'Buddhist holiday of Vesak',?
+'best travel experiences',?
+'sore calves',?
+'climbing experience',?
+'talk about religion',?
+'starting climbing',?
+'really a worthy',?
+'best of ideas',?
+'sweet release of',?
+'climb Adam',?
+'best travel experiences',?
+'sore calves',?
+'better take',?
+'climbing experience',?
+'talk about religion',?
+'trip was really',?
+'starting climbing',?
+'really a worthy lifetime',?
+'climb Adam',?
+'best of ideas',?
+'sweet release of death',?
+'climb Adam',?
+'see nice sceneries',?
+'Usualy climbing',?
+'walk is very straight',?
+'first part',?
+'avoid walking',?
+'rock was not',?
+'rock today in mai',?
+'good coconut during',?
+'time too hot',?
+'Nice hike',?
+'trip is worth',?
+'superb weather',?
+'water fall and demodara',?
+'great tour with german',?
+'was weary walking',?
+'Great view at',?
+'see a small stream',?
+'second turning',?
+'mostly walk',?
+'scenery is like',?
+'hiking tour but',?
+'Lots of tourists',?
+'climbing Adams',?
+'easy and short',?
+'scenery is like',?
+'hiking tour but',?
+'fees were really expensive',?
+'bad experiences',?
+'Lots of tourists',?
+'view is simply breathtaking',?
+'climbing Adams',?
+'easy and short',?
+'amazing nature',?
+'Enjoyed good',?
+'long ques',?
+'lot of different animals',?
+'Nice park',?
+'leopard or bear',?
+'tour maybe better',?
+'wild boar',?
+'Lots of water',?
+'well worth enduring',?
+'lot of jeeps',?
+'tour company used',?
+'buffalo and many birds',?
+'wild boar',?
+'see everything that',?
+'see the big',?
+'water buffalo and',?
+'wild boar',?
+'leopard or bear',?
+'tour maybe better',?
+'wild boar',?
+'Lots of water',?
+'well worth enduring',?
+'get hot',?
+'leopard Inna short',?
+'leopard was too elusive',?
+'wild animals',?
+'great time spotting',?
+'swim here',?
+'place is a huge',?
+'perfect place for family',?
+'beautiful and fun',?
+'well as adults',?
+'sand was golden',?
+'good place to',?
+'water is amazing',?
+'best beaches in Sri',?
+'swim here',?
+'turtles and lots',?
+'Perfect beach',?
+'best beaches',?
+'place for children',?
+'place is a huge',?
+'perfect place for',?
+'beautiful and fun',?
+'well as adults',?
+'sand was golden',?
+'good place',?
+'Good vibe in',?
+'rock to see',?
+'best time',?
+'best beach in',?
+'Great vibe from',?
+'Most with restaurants',?
+'Good choice of accommodation',?
+'Life Guards In season',?
+'Great spacious safe',?
+'beautiful sandy beach',?
+'different story',?
+'nice and quiet',?
+'Lots of cafes',?
+'beautiful water',?
+'nice white sand',?
+'Love this beach',?
+'rock to see',?
+'best time',?
+'best beach',?
+'crowded trains',?
+'friendly locals',?
+'love the sea',?
+'Sri Lanka is famous',?
+'beautiful sandy beach',?
+'Nice place to go',?
+'swim in general',?
+'or just play',?
+'watch locals fish',?
+'Nice food',?
+'fine beach with good ambience',?
+'Sri Lanka is famous',?
+'beautiful sandy beach',?
+'food is quite expensive',?
+'life and a good',?
+'place was nice',?
+'amazing food',?
+'life and a good',?
+'place was nice',?
+'love to live',?
+'Just the way',?
+'Walk in sit',?
+'ground or walking',?
+'nice place',?
+'place to spend',?
+'rocks and a lovely temple',?
+'jump and play',?
+'waves are brilliant',?
+'sands were nice',?
+'watch and jump',?
+'waves were just brilliant',?
+'water was warm',?
+'just a few',?
+'rocks and a lovely temple',?
+'jump and play',?
+'waves are brilliant',?
+'Comfortable outside bars',?
+'lot of driving',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'worth walking',?
+'Lovely quiet beach',?
+'just a few people',?
+'perfect temperature',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+'Nice clean',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Amazing sunset',?
+'lot of street',?
+'Walk the green',?
+'see the vendors',?
+'watch the kites',?
+'watch the lowering',?
+'very nice place to',?
+'bit crowded',?
+'see nice seen',?
+'sun is setting',?
+'nice place to sit',?
+'see sen set',?
+'Nice view',?
+'great time on',?
+'bad time',?
+'good to visit',?
+'beautiful and neat',?
+'swimming is allowed',?
+'lot of caution',?
+'best beach in colombo',?
+'see old colonel',?
+'kids play',?
+'good time',?
+'love the sea',?
+'friendly locals',?
+'crowded trains',?
+'good to visit',?
+'beautiful and neat beach',?
+'swimming is allowed',?
+'lot of caution',?
+'watch locals fish',?
+'or just play',?
+'swim in general',?
+'Nice place to go',?
+'see the sunset',?
+'good food',?
+'good restaurants near',?
+'Lots of dishes',?
+'good spots',?
+'great way to finish',?
+'trip in Sri',?
+'lots of cafes',?
+'view is fantastic',?
+'waves are quite strong',?
+'t swim',?
+'Great spacious safe',?
+'Life Guards In',?
+'Good choice of accommodation',?
+'Most with restaurants',?
+'Great vibe from',?
+'lots of beach',?
+'sea swimming',?
+'perfect for swimming',?
+'long walks',?
+'lots of restaurants',?
+'dead coral',?
+'waves are more pleasant',?
+'good restaurants',?
+'good for swimming',?
+'first time',?
+'nice view and',?
+'really is a',?
+'waves and lovely',?
+'lots of beach',?
+'sea swimming',?
+'perfect for swimming',?
+'long walks',?
+'lots of restaurants',?
+'dead coral',?
+'really is a',?
+'waves and lovely',?
+'see the big',?
+'see everything that',?
+'wild boar',?
+'buffalo and many',?
+'tour company used',?
+'lot of jeeps',?
+'Bumpy ride',?
+'well hidden leopard',?
+'first safari',?
+'birds and smaller mammals',?
+'good place',?
+'wild birds',?
+'see the leopard',?
+'better chance',?
+'leopard Inna short time',?
+'first safari',?
+'good place if',?
+'wild birds',?
+'see the leopard',?
+'Enjoyed good',?
+'Beautiful trees',?
+'wild animals',?
+'Horton Plain',?
+'Horton Plains trek',?
+'Beautiful Breath Taking',?
+'The whole walk',?
+'walk is just',?
+'hot quickly',?
+'reindeer walking',?
+'water and wear comfortable shoes',?
+'view is fantastic',?
+'complete the whole walk',?
+'Best to check',?
+'Best to go',?
+'Horton Plain reviews',?
+'Horton Plains trek',?
+'The whole walk',?
+'walk is just',?
+'complete the whole walk',?
+'Best to check',?
+'Best to go',?
+'rock today in mai',?
+'rock was not',?
+'easy because everybody',?
+'avoid walking',?
+'first part',?
+'walk is very straight',?
+'a steep climb',?
+'rock is a',?
+'nice place from',?
+'see the amazing',?
+'see many small',?
+'view is fabulous',?
+'mostly walk',?
+'second turning',?
+'see a small stream',?
+'was weary walking',?
+'trip is worth',?
+'beautiful moment with',?
+'buddhist sound from',?
+'hour climb',?
+'effort but climb',?
+'a nice walk',?
+'bad in terms',?
+'good experience',?
+'average level',?
+'just a couple',?
+'most toughest track to',?
+'steps just jumping',?
+'Usualy climbing',?
+'hour climb',?
+'a nice walk',?
+'bad in terms',?
+'good experience',?
+'average level',?
+'just a couple',?
+'most toughest track',?
+'steps just jumping',?
+'see the water all',?
+'amazing view',?
+'amazing nature',?
+'Fantastic to walk',?
+'amazing area',?
+'Good spot for great photos',?
+'dead fish',?
+'lovely to take',?
+'just a large',?

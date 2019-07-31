@@ -1,0 +1,743 @@
+@relation critics_test
+
+@attribute text string
+@attribute NewNominal numeric
+
+@data
+'walk for miles',8.5
+'good surfing',8.5
+'trips and rentable surf',8
+'morn walk',8.3
+'enjoyed walking',8.5
+swim,8
+'Almost deserted',2
+'body surfing',8.1
+'helicopter rides',8.2
+'microlight rides',8.2
+'swim here',8
+'waves for boarding',8.5
+'play hide',8.4
+'walk the length',8.5
+'use sunbed',5
+'enjoy long walk',8.5
+'waves and surfing',8
+'beach for walking',8
+'rollers and surf',8
+'Take a walk',8
+'surf strolling',8
+'beach for swimming',8
+'sunbathing and swimming',8.5
+'just walk',8
+'beach walking',8
+'body surfing',8.1
+'relaxing walk',8.4
+'walking early',8.1
+'place for Surfing',8
+'walk for hours',8
+'surf looking',8
+'Lovely for paddling',9
+'boat ride',8
+'walk for miles',8.5
+'minutes walk',8.3
+'are free sunbeds',8.5
+'romantic walk',8.7
+'rent sunbeds',8
+'including surfing',8
+'surf lessons',8.4
+'not swim',3
+'jump the waves',8
+'year so swimming',8.5
+'swim there',8
+'walk with causing',8.4
+'Great walking',9
+'a long walk',8.5
+'recommend swimming',8.6
+'offering some surfing',8
+'surf sport',8.2
+'morning walk',8.3
+'walk further',8.3
+'front of Surf',8
+'Perfect for surfing',8.5
+'not swim',3
+'paddle but often',6
+'enjoy a long walk',9
+'morning walk',8.3
+'swimming was allowed',8
+'swim here',7
+'tides for swimming',7
+'surfing maybe',7.8
+'no safe swimming',2
+'do the boat ride',4
+'attempt swimming',7.5
+'swim in today',7.9
+'swim however',7.7
+'sports from parasailing',7
+'surfing this time',7.9
+'swimming year',8
+'watch the surf',7.6
+'speed boat ride',7
+'beach with swim',8
+'Surf friendly waves',8.8
+'A quiet walk',8.5
+'a lovely walk',9
+'swimming friendly',8.2
+'for good walking',8.4
+'banana boat rides',8
+'hear that swimming',8
+'swimming only',7
+'wave surfing',8.1
+'season for surfing',7
+'go if surfing',7
+'swimming due',8
+'morning walk',8.3
+'get there walking',8
+'swim or paddle',8
+'luck with long rides',8
+'boat rides',7
+'Safe for swimming',8.7
+'walk on bare feet',8.5
+'helicopter rides',8
+'surf fun',8.6
+'wave jumping',8.3
+'ocean swimming',8
+'walk hours',8
+'walk over next beaches',8.2
+'Go walking',7
+'people walking',8
+'body boarding',8
+'running and swimming',8.5
+'are private sunbeds',8
+'beach for walking',8
+'surfing lessons',8.2
+'Helicopter rides',8
+'socialize and play',8
+'go swimming',8
+'beach for walking',8
+'a great walking',9
+'swim here',8
+'enjoy walking',9
+'helicopter rides',8
+'state before swimming',7.9
+'walk a little way',8
+'fun jumping',8
+'walking along',8
+'sunbath and play',8.5
+'beach game',8
+'Perfect for walking',9
+'is like walking',7
+'walk really',8
+'sunbeds parasols',8
+'walk a couple',8.2
+'good surf',8.5
+'The perfect swimming',9
+'sunbed sellers',5
+'walk up',8
+'walking or jogging',8
+'walk for miles',8.5
+'beach Swimming',8
+'cove for swimming',8
+'swimming with kids',8
+'not swim',3
+'charged for sunbeds',5
+'walk deep',8.8
+'swim and bathe',8.5
+'Swim at own risk',3
+'jumping the waves',8.3
+'Worth a walk',8
+'walking distance',8
+'skiing and surfing',8.5
+'Great for swimming',9
+'surfing but keep',7.5
+'wave jumping',8.3
+'not swim',3
+'beds and short surf',7.6
+swim,8
+Nice,8
+'a little walk',8
+'Walked the beach',8
+'importantly surfing',8
+'not walk',3
+'nt swim',3
+'sand or walk',8
+'walk specially',8
+'swim was good too',8
+'lines of sunbeds',7
+'walk in more',8
+'jumping waves',8.3
+'swim out far',6
+'a great walk',9
+'go swimming',8
+'swimming or surfing',8.5
+'afternoon walk',8.3
+'time walking',8
+'walk without bags',8.2
+'Soft sand and very clean',9
+'Lovely clean beach set',9
+'waves are fairly gentle',8.5
+'nt see any get',4
+'beach has glorious sand',9
+'lovely warm water',9
+'warm sea with',8
+'just sea and',5
+'beach with choice',6
+'good place to spend',8
+'Fine sandy beach easy to',8
+'beach is used',5
+'beach to be',5
+'water was warm',6
+'Nice beach ruined',9
+'really good place to relax',9
+'beach is almost empty',7
+'waves are huge',8.5
+'good ocean swimming',8.6
+'Beach to see',5
+'beach less crowded',7
+'Beach is slightly tricky',6
+'beach is great',9
+'beach has lovely',9
+'nice clear water',8.6
+'Great beach that due',9
+'good reason to',8.4
+'beautiful sand and warm',8.8
+'beach with lots',8
+'just people walking',8
+'waves are very strong',8.5
+'good place to',8.4
+'Perfect for early morning',8
+'waves so perfect',8.8
+'beach was so quiet',8
+'sunset time- for good reason',8.5
+'beach is a',5
+'Perfect for early morning',8.8
+'beach was very peaceful',9
+'Waves were big',8.5
+'beach was clean',8
+'still good to play',7
+'Water lovely and',9
+'Beach is large',8
+'water is very clear',8
+'beach from hotel',5
+'beautiful sandy beach',8.7
+'well worth a',8
+'Absolutely beautiful beach',9
+'sunset lots of locals',8.5
+'lovely stretch of beach',9
+'Nice beach and not crowded',8
+'great long stretch',8
+'warm Indian Ocean',8
+'lovely sandy beach',9
+'water is gorgeous',9
+'Warm and clear',8
+'great walking beach',9
+'beautiful unpolluted Sri',8
+'great stop inbetween',8
+'Good clean beach',8
+'very nice long stretch',9
+'great for long walks',9
+'Easy beach to walk',8
+'good place for',8
+'beach area next',7
+'lots of crabs',5
+'really enjoy walking',9
+'beach and view some spectacular sunsets',9
+'lots of Restaurant',5
+'great time diving',8.8
+'good place to chill',8
+'beach restaurant having',5
+'Great beach and',8
+'beach with nice sand',8.6
+'waves are very strong',8.5
+'really isnt much',5
+'great to watch',9
+'just very beautiful',9
+'waves but safe',7.5
+'soft and great',9
+'view is breathtaking',9
+'beach is amazing',9
+'good condition with',9
+'nice beach with adventure',9
+'beach is neat',8.8
+'beautiful serene beach',8.8
+'perfect place to watch',8.6
+'Water is very refreshing',9
+'beautiful beach with',8.8
+'nice quite beach',8.6
+'lots of sand',8.4
+'lots of big waves',8.5
+'dangerous to enter',3
+'good fun jumping',8.4
+'Just very beautiful',9
+'Nice water temperatur',8
+'perfect for long beach',8
+'best beaches in',8
+'most beautiful beach',9
+'delightful beach cafes',9
+'beach as photos',5
+'beach all day',5
+'water but the waves',8
+'Sunset is the best',9
+'Good place to visit',8
+'Very good clean beach',9
+'good selection of',8
+'beach is quiet',8
+'beach in Bentota',5
+'most famous beach',8
+'love to spend',9
+'beach and beach',5
+'beautiful succession of',8
+'best time before',8
+'love this wonderful Beach',9
+'beautiful pleasure to visit',9
+'beach is just',5
+'waves are big',8.5
+'water is not higher',6
+'pretty logn distance',9
+'just sit there',5
+'beach beautiful sand',8.6
+'beach is clean',8.9
+'Nice beach with',8.6
+'good hotels on',5
+'nice beach for',8.6
+'Good beach very clean',9
+'beach then great',8
+'most beautiful n',9
+'beach is extremely soft',9
+'just like soft candy',9
+'water is very clear',8.7
+'see all shades',8
+'good thing about',8
+'soft white sands',8.8
+'good surf and amazing',9
+'Water sports available',8
+'great bars along',5
+'perfect swimming temperature',8.9
+'easy beach to',5
+'Beach is a flat',8
+'beach several times',5
+'nice clean beach',8
+'Lovely spread of open beach',9
+'Nice clean beach',8
+'nice waves and nice sundowner',8.8
+'beautiful beach in',8
+'just too hot',4.8
+'beach but lovely and scenic',8
+'good for surfers',8.5
+'beach is amazing',9
+'soft and golden',8
+'beautiful spice garden',8
+'Lovely place to walk',9
+'lovely quiet long',9
+'well worth a',8
+'water is blue',8
+'water is warm',4.9
+'Really beautiful long Beach',9
+'lot of water',8
+'nice and small',8.6
+'perfect beach for families',8
+'beach was much better',9
+'waves are smaller',7.5
+'super soft and',9
+'most of Bentota',6
+'perfect spot for relaxation',8
+'nice golden sands',8.9
+'beach is covered',6
+'beach is very good',9
+'Very neat and clean',8
+'beach has public',7
+'lot of time',8
+'beautiful view of sea',7
+'good time at beach',8
+'view and great',9
+'beach at Bentota',6
+'Suitable for long walks',8.5
+'water sport enthusiasts',7
+'beach ever seen',9
+'beach very clean',9
+'Lots of people',5
+'great for swimming',9
+'fine to stroll',5
+'beach was beautiful',8
+'soft sand crystal',8.7
+'just few sundbeds',7
+'beach is clean',8
+'beach and plenty',8
+'water only coming',6
+'best to access',8
+'beach is tranquil',8
+'beach is perfect',8
+'Just great simple',9
+'best no beds',7
+'just pure beach',8
+'just amazing nothing',9
+'beach has calm',8
+'soft sand and',8.7
+'waves was quite clean',8.7
+'just amazingly beautiful',9
+'Beautiful beach with miles',8
+'Great beach warm',9
+'water activities Clean',8
+'beautiful soft sand',8
+'see Putha in front',7
+'Good helpful guy',5
+'Beach is located',7
+'super beautiful beach',9
+'beach is great',9
+'good places to',8
+'beach is amazing',9
+'beach with golden sand',8.7
+'Nice and huge waves',8.9
+'best beaches',8.5
+'water skiing and surfing',8.5
+'good local tutors',8
+'beach every morning',7
+'warm sea water',7
+'Great nature envolvment',8
+'lovely sun set',9
+'lovely to see',9
+'lovely beach fronting',9
+'beach are a',7
+'Great for swimming',9
+'see a life',5
+'quite easy to get',7
+'beach is the',5
+'see in photos',5
+'soft and clean',8
+'waves have proper',8.5
+'good for swimming',8.8
+'Lovely long sandy',9
+'good bars along',8
+'Lovely beach and',9
+'lot of other beaches',7
+'waves are smaller',7.5
+'beautiful golden sands',8
+'beautiful clean beach',8
+'pretty from afar',8.9
+'water is brown',5.8
+'beach is beautiful',8
+'love the Bentota',9
+'just full stretch',7
+'soft golden sand',8
+'beach with white sand',8
+'Great place to',9
+'warm water but not',7
+'Beach is lovely',9
+'Nice quite beach',8
+'well half of',7
+'super Ayuvedic Spa',9
+'beach is a little',7
+'just next to',7
+'beautiful beaches of Sri',8
+'really had a beautiful',9
+'beach every morning',7
+'beach as well',7
+'Great spot for sunset',9
+'Nice to walk',8.8
+'water is very warm',4.5
+'beach is clean',8
+'beach first thing',7
+'beach in Sri',5
+'waves and very relaxing',8.9
+'waves and good views',8.5
+'beach with soft sand',8.5
+'lovely place to',9
+'lots of pictures',8
+'Lovely big beach',9
+'nice place but',8
+'beach alot of bar',5
+'good place',8
+'Very good wave to do',8.9
+'Fantastic lovely long',9
+'beautiful beach with white sand',8.8
+'Good for morning',8
+'beach being high water',8
+'beautiful stretch but impossible',6
+'very good to play',9
+'lot of space',8
+'nice waves to dive',8.7
+'most beautiful and clean',9
+'good time with morning',8
+'Beach is really',9
+'good for walk',8.6
+'beach was awesome',9
+'beach to get',7
+'beach with soft sand',8.5
+'good and clean',8
+'beach is unspoilt',8
+'lovely to see',9
+'beach with lines',7
+'beautiful calm and clean',8
+'beach these days',7
+'really long beach',9
+'water levels in',7
+'dangerous for children',3
+'beach a a few kilometres',5
+'Beautiful soft sand',8.5
+'beautiful long white',8.6
+'waves were pounding',7
+'lovely sound in',9
+'nice and peaceful',8
+'beach front wassuper',9
+'great walk along',9
+'nice and clean',8
+'lot of people',6
+'most boring place',3
+'see a paradisiacal',9
+'view The coconut',8
+'lot of garbage',2
+'beach side so',7
+'beautiful and tranquil',8
+'beach with loungers',7
+'beach is extremely',8
+'Nice beach for',8
+'lot of time',5
+'see a pair',5
+'beautiful beach and wonderful',9
+'beach is packed',5
+'best beache',8
+'Good place to watch',8
+'nice weather and',8
+'beach is very clean',9
+'water is wonderful',9
+'great to talk',8
+'Beach is a great',8
+'nice and quiet',8
+'waves too rough',7
+'suitable for families',8
+'lovely to jump',9
+'warm nice to',8
+'very warm and clean',7
+'waves were huge',8.5
+'nice beach in',8
+'most beautiful views',9
+'beach of bentota',7
+'waves on foot',8
+'beach with wonderful sand',8.9
+'dangerous this time',3
+'Fantastic wide golden',9
+'waves and undercurrent',8
+'beach side hotels',7
+'very good and offer',9
+'Beach is good',8
+'good for surf',8.5
+'Great place for beach',9
+'warm and bearable',8
+'nice and clean',8
+'lot of hotels',5
+'see nice non',8
+'good book to',8
+'good decision as',8
+'beach is quite clean',8
+'nice restaurants to visit',8
+'beach behind Centara',7
+'beautiful long stretch',8.5
+'beautiful part of',8.5
+'nice and clean',8.7
+'soft white sand',8.7
+'perfect place in',8
+'beautiful sunset while',8.9
+'Beach has quite',7
+'good quality time',8
+'nice beach',8.6
+'good stretch of',8.5
+'really only used',5
+'waves are quiet large',8.5
+'very pleasant other times',8
+'Easy access from hotels',5
+'perfect timing for',8
+'great for long walks',9
+'beautiful views along',8
+'warm and safe',8
+'most beautiful beaches',9
+'most beaches in',5
+'beautiful beaches of',8.5
+'perfect place for everyone',8
+'great place to walk',9
+'Water was very clean',9
+'water was choppy',7
+'Beach was clean',8
+'Lovely place to walk',9
+'view is great',9
+'lots of greenery',8.5
+'lovely beach for',9
+'unsafe for swimming',3
+'nice clean beach',8
+'Great beach for long',8
+'Absolutely clean beach',9
+'beautiful stretch of sand',8.5
+'beach had lovely sand',8.9
+'warm waters with great',8
+'beach is a wonderful',9
+'Beach is perfect place',8
+'good and weekends',8
+'beach in August',5
+'Beautiful but no safe swimming',3
+'soft sand and',8.5
+'most just watched',7
+'beach was windswept',6
+'nice for beach',8
+'beach is very dirty',2
+'beautiful stretch of beach',8
+'beautiful beach with yellow gold',8
+'water was a',5
+'Beach is perfect',8
+'Nice Pristine beach',8
+'water are clean',8
+'water sports on',8
+'see some water sports',8
+'suitable for swimming',8.2
+'beach with spectacular view',9
+'water sports activity',7
+'water was a',5
+'Nice beach for jogging',8.3
+'Beach is neat',8.4
+'waves are huge',8.5
+'Beach practically deserted',3.5
+'fine place to stay',8
+'Lovely beach with',9
+'water and beach',7
+'enough just to have',6
+'beach is lovely',9
+'fair bit of plastic',5
+'water was very rough',6
+'nasty rip tide',3
+'Lovely pristine quiet',9
+'beach with white sands',8
+'Great water sports',8
+'water scooter and',8
+'nice sandy beach',8.4
+'great waves and beautiful',8.9
+'great people in',8
+'beach is peaceful',8
+'good weather and',8.5
+'beach at Bentota',5
+'beautiful and unspoilt',8.5
+'Great to look',8.8
+'beach was just',5
+'beach is very clean',9
+'lot of hotels',5
+'View is very good',8.9
+'Nice lighthouse nearby',8.5
+'beach is clean',8.9
+'most beautiful to',8.8
+'water and big wave',8.5
+'beach is a beautiful',8.5
+'beach is very clean',8.9
+'water is blue',8.5
+'see river meeting',8.2
+'Most luxury hotels',5
+'sunset is lovely',9
+'beach and the lovely',9
+'sunset is amazing',8.9
+'best beaches',8
+'perfect location for photographs',8
+'warm and clean water',8.3
+'beach are wide',8.3
+'Soft and pleasant',8.7
+'Not good place to snorkeling',4
+'great place to',8.8
+'beach was clean',8.6
+'really a long',8.5
+'Beautiful sereen and',8.5
+'warm water',4.9
+'lovely endless sandy',8.9
+'just sit there',5
+bad,2
+'beach was a wonderful',8.9
+'beach is very clean',8.9
+'beach was clean',8
+'lot of plastic',4
+'beach is just',5
+'beach is beautiful',8
+'warm rich sand',8.3
+'Really so beautiful',9
+'just a brilliant view',9
+'really is a lovely',9
+'beach with blue Saffire',8
+'Waves were mild so',8.5
+'nice peaceful time',8
+'most beautiful beaches',9
+'most of time',5
+'really for swimming',8.2
+'Nice sandy beach to',8.4
+'suitable for kids',5
+'lots of fun',8.5
+'best to visit',5
+'Lovely long clean',8.9
+'Great beach to',9
+'Beautiful and clean beach',8
+'nice beach facing',8
+'beautiful beach right',8
+'wave surfing here',8.5
+'Very neat and clean',9
+'Very nice and clean',9
+'perfect spot for',8
+'beach of powdery',7
+'best beaches in',8
+'Most beautiful part',9
+'soft white sand',8.5
+'water is warm',7
+'beach was the best',8
+'Absolutely clean beach',9
+'lots of beach',7
+'beach late afternoon',8
+'beautiful beach with miles',8
+'beach cleaners sweep',8
+'pretty clean however',8
+'really nice',9
+'nice beach and good',8
+'lot of plastic',4
+'Lots of joggers',6
+'sea swimming',?
+'lots of beach',?
+'',?
+'turtles and lots',?
+'',?
+'beach is good',?
+'swim here',?
+'beach is very narrow',?
+'',?
+'nice view and',?
+'',?
+'water is amazing',?
+'sea swimming',?
+'lots of beach',?
+'',?
+'place is a huge',?
+'swim here',?
+'beach is very narrow',?
+'sea swimming',?
+'lots of beach',?
+'',?
+'turtles and lots',?
+'',?
+'beach is good',?
+'swim here',?
+'beach is very narrow',?
+'',?
+'nice view and',?
+'',?
+'water is amazing',?
+'sea swimming',?
+'lots of beach',?
+'',?
+'place is a huge',?
+'swim here',?
+'beach is very narrow',?
+'sea swimming',?
+'lots of beach',?
+'',?
+'turtles and lots',?
+'',?
+'beach is good',?
+'swim here',?
+'beach is very narrow',?
+'',?
+'nice view and',?
+'',?
+'water is amazing',?
+'sea swimming',?
+'lots of beach',?
+'',?
+'place is a huge',?
+'swim here',?
+'beach is very narrow',?

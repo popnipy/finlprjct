@@ -1,0 +1,59 @@
+@relation 'testing1-weka.filters.unsupervised.attribute.Add-TNOM-NNewNominal-Lactivity,scenic-Clast'
+
+@attribute text string
+@attribute NewNominal {activity,scenic}
+
+@data
+'due wawes and visibility',?
+'Not good place',?
+'Wawes are easy',?
+'not too much',?
+'Easy beach to walk',?
+'swim here',?
+'place to chill',?
+'very clean and good',?
+'surely have a great',?
+'view some spectacular sunsets',?
+'enjoy walking',?
+'beautiful beach close',?
+'luck with long',?
+'waves are fairly gentle',?
+'slowly sloping drop',?
+'and very few',?
+'lovely warm water',?
+'The beach has glorious',?
+'The beach has glorious',?
+
+'lovely warm water',?
+
+'and very few',?
+
+'slowly sloping drop',?
+
+'waves are fairly gentle',?
+
+'luck with long',?
+
+'beautiful beach close',?
+
+'enjoy walking',?
+
+'view some spectacular sunsets',?
+
+'surely have a great',?
+
+'very clean and good',?
+
+'place to chill',?
+
+'swim here',?
+
+'Easy beach to walk',?
+
+'not too much',?
+
+'Wawes are easy',?
+
+'Not good place',?
+
+'due wawes and visibility',?

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.wicket:wicket:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket/unknown/wicket-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket/unknown/wicket-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket/unknown/wicket-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

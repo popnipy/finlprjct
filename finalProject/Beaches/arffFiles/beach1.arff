@@ -1,0 +1,1538 @@
+@relation 'testing1-weka.filters.unsupervised.attribute.Add-TNOM-NNewNominal-Lactivity,scenic-Clast'
+
+@attribute text string
+@attribute NewNominal {activity,scenic}
+
+@data
+'walk for miles',activity
+'good surfing',activity
+'trips and rentable surf',activity
+'morn walk',activity
+'enjoyed walking',activity
+'swim',activity
+'Almost deserted',activity
+'body surfing',activity
+'helicopter rides',activity
+'microlight rides',activity
+'swim here',activity
+'waves for boarding',activity
+'play hide',activity
+'walk the length',activity
+'use sunbed',activity
+'enjoy long walk',activity
+'waves and surfing',activity
+'beach for walking',activity
+'rollers and surf',activity
+'Take a walk',activity
+'surf strolling',activity
+'beach for swimming',activity
+'sunbathing and swimming',activity
+'or just walk',activity
+'beach walking',activity
+'body surfing',activity
+'relaxing walk',activity
+'walking early',activity
+'place for Surfing',activity
+'walk for hours',activity
+'surf looking',activity
+'Lovely for paddling',activity
+'boat ride',activity
+'walk for miles',activity
+'minutes walk',activity
+'are free sunbeds',activity
+'romantic walk',activity
+'rent sunbeds',activity
+'including surfing',activity
+'surf lessons',activity
+'not swim',activity
+'jump the waves',activity
+'year so swimming',activity
+'swim there',activity
+'walk with causing',activity
+'Great walking',activity
+'a long walk',activity
+'recommend swimming',activity
+'offering some surfing',activity
+'surf sport',activity
+'morning walk',activity
+'walk further',activity
+'front of Surf',activity
+'Perfect for surfing',activity
+'not swim',activity
+'paddle but often',activity
+'enjoy a long walk',activity
+'morning walk',activity
+'swimming was allowed',activity
+'swim here',activity
+'tides for swimming',activity
+'surfing maybe',activity
+'no safe swimming',activity
+'do the boat ride',activity
+'attempt swimming',activity
+'swim in today',activity
+'swim however',activity
+'sports from parasailing',activity
+'surfing this time',activity
+'swimming year',activity
+'watch the surf',activity
+'speed boat ride',activity
+'beach with swim',activity
+'Surf friendly waves',activity
+'A quiet walk',activity
+'a lovely walk',activity
+'swimming friendly',activity
+'for good walking',activity
+'banana boat rides',activity
+'hear that swimming',activity
+'swimming only',activity
+'wave surfing',activity
+'season for surfing',activity
+'go if surfing',activity
+'swimming due',activity
+'like walking',activity
+'morning walk',activity
+'get there walking',activity
+'swim or paddle',activity
+'luck with long rides',activity
+'boat rides',activity
+'Safe for swimming',activity
+'walk on bare feet',activity
+'helicopter rides',activity
+'surf fun',activity
+'wave jumping',activity
+'ocean swimming',activity
+'walk hours',activity
+'walk over next beaches',activity
+'Go walking',activity
+'people walking',activity
+'body boarding',activity
+'running and swimming',activity
+'are private sunbeds',activity
+'beach for walking',activity
+'surfing lessons',activity
+'Helicopter rides',activity
+'socialize and play',activity
+'go swimming',activity
+'beach for walking',activity
+'a great walking',activity
+'swim here',activity
+'enjoy walking',activity
+'helicopter rides',activity
+'state before swimming',activity
+'walk a little way',activity
+'fun jumping',activity
+'walking along',activity
+'sunbath and play',activity
+'beach game',activity
+'Perfect for walking',activity
+'is like walking',activity
+'walk really',activity
+'sunbeds parasols',activity
+'walk a couple',activity
+'good surf',activity
+'The perfect swimming',activity
+'sunbed sellers',activity
+'walk up',activity
+'walking or jogging',activity
+'walk for miles',activity
+'beach Swimming',activity
+'cove for swimming',activity
+'swimming with kids',activity
+'not swim',activity
+'charged for sunbeds',activity
+'walk deep',activity
+'swim and bathe',activity
+'Swim at own risk',activity
+'jumping the waves',activity
+'Worth a walk',activity
+'walking distance',activity
+'skiing and surfing',activity
+'Great for swimming',activity
+'surfing but keep',activity
+'wave jumping',activity
+'not swim',activity
+'beds and short surf',activity
+'swim',activity
+'Nice',activity
+'a little walk',activity
+'Walked the beach',activity
+'importantly surfing',activity
+'not walk',activity
+'nt swim',activity
+'sand or walk',activity
+'walk specially',activity
+'swim was good too',activity
+'lines of sunbeds',activity
+'walk in more',activity
+'jumping waves',activity
+'swim out far',activity
+'a great walk',activity
+'go swimming',activity
+'swimming or surfing',activity
+'afternoon walk',activity
+'time walking',activity
+'walk without bags',activity
+'Soft sand and very clean',scenic
+'Lovely clean beach set',scenic
+'waves are fairly gentle',scenic
+'nt see any get',scenic
+'beach has glorious sand',scenic
+'lovely warm water',scenic
+'warm sea with',scenic
+'just sea and',scenic
+'beach with choice',scenic
+'good place to spend',scenic
+'Fine sandy beach easy to',scenic
+'beach is used',scenic
+'beach to be',scenic
+'water was warm',scenic
+'Nice beach ruined',scenic
+'suitable for children',scenic
+'really good place to relax',scenic
+'beach is almost empty',scenic
+'waves are huge',scenic
+'good ocean swimming',scenic
+'Beach to see',scenic
+'beach less crowded',scenic
+'Beach is slightly tricky',scenic
+'beach is great',scenic
+'beach has lovely',scenic
+'nice clear water',scenic
+'good for family',scenic
+'Great beach that due',scenic
+'good reason to',scenic
+'beautiful sand and warm',scenic
+'beach with lots',scenic
+'just people walking',scenic
+'waves are very strong',scenic
+'good place to',scenic
+'Perfect for early morning',scenic
+'waves so perfect',scenic
+'beach was so quiet',scenic
+'sunset time- for good reason',scenic
+'beach is a',scenic
+'Perfect for early morning',scenic
+'beach was very peaceful',scenic
+'Waves were big',scenic
+'beach was clean',scenic
+'still good to play',scenic
+'Water lovely and',scenic
+'Beach is large',scenic
+'water is very clear',scenic
+'beach from hotel',scenic
+'beautiful sandy beach',scenic
+'well worth a',scenic
+'Absolutely beautiful beach',scenic
+'sunset lots of locals',scenic
+'lovely stretch of beach',scenic
+'Nice beach and not crowded',scenic
+'waves in Bentota',scenic
+'great long stretch',scenic
+'warm Indian Ocean',scenic
+'lovely sandy beach',scenic
+'water is gorgeous',scenic
+'Warm and clear',scenic
+'great walking beach',scenic
+'beautiful unpolluted Sri',scenic
+'great stop inbetween',scenic
+'Good clean beach',scenic
+'very nice long stretch',scenic
+'great for long walks',scenic
+'Easy beach to walk',scenic
+'good place for',scenic
+'beach area next',scenic
+'lots of crabs',scenic
+'really enjoy walking',scenic
+'beach and view some spectacular sunsets',scenic
+'lots of Restaurant',scenic
+'great time diving',scenic
+'good place to chill',scenic
+'beach restaurant having',scenic
+'Great beach and',scenic
+'beach with nice sand',scenic
+'waves are very strong',scenic
+'really isnt much',scenic
+'great to watch',scenic
+'just very beautiful',scenic
+'waves but safe',scenic
+'soft and great',scenic
+'view is breathtaking',scenic
+'beach is amazing',scenic
+'good condition with',scenic
+'nice guy and',scenic
+'nice beach with adventure',scenic
+'beach is neat',scenic
+'beautiful serene beach',scenic
+'perfect place to watch',scenic
+'Water is very refreshing',scenic
+'beautiful beach with',scenic
+'nice quite beach',scenic
+'nice quite holiday',scenic
+'lots of sand',scenic
+'lots of big waves',scenic
+'dangerous to enter',scenic
+'good fun jumping',scenic
+'Just very beautiful',scenic
+'Nice water temperatur',scenic
+'perfect for long beach',scenic
+'best beaches in',scenic
+'most beautiful beach',scenic
+'delightful beach cafes',scenic
+'beach as photos',scenic
+'beach all day',scenic
+'water but the waves',scenic
+'Sunset is the best',scenic
+'Good place to visit',scenic
+'Very good clean beach',scenic
+'good selection of',scenic
+'beach is quiet',scenic
+'beach in Bentota',scenic
+'most famous beach',scenic
+'love to spend',scenic
+'beach and beach',scenic
+'beautiful succession of',scenic
+'best time before',scenic
+'love this wonderful Beach',scenic
+'beautiful pleasure to visit',scenic
+'beach is just',scenic
+'waves are big',scenic
+'water is not higher',scenic
+'pretty logn distance',scenic
+'just sit there',scenic
+'beach beautiful sand',scenic
+'beach is clean',scenic
+'Nice beach with',scenic
+'good hotels on',scenic
+'nice beach for',scenic
+'Good beach very clean',scenic
+'beach then great',scenic
+'most beautiful n',scenic
+'beach is extremely soft',scenic
+'just like soft candy',scenic
+'water is very clear',scenic
+'see all shades',scenic
+'good thing about',scenic
+'soft white sands',scenic
+'good surf and amazing',scenic
+'Water sports available',scenic
+'great bars along',scenic
+'perfect swimming temperature',scenic
+'easy beach to',scenic
+'Beach is a flat',scenic
+'water temperature in December',scenic
+'lot of beach',scenic
+'good food and',scenic
+'beach several times',scenic
+'nice clean beach',scenic
+'Lovely spread of open beach',scenic
+'Nice clean beach',scenic
+'nice waves and nice sundowner',scenic
+'beautiful beach in',scenic
+'just too hot',scenic
+'beach but lovely and scenic',scenic
+'good for surfers',scenic
+'beach is amazing',scenic
+'soft and golden',scenic
+'beautiful spice garden',scenic
+'Lovely place to walk',scenic
+'lovely quiet long',scenic
+'well worth a',scenic
+'water is blue',scenic
+'water is warm',scenic
+'lot of beaches',scenic
+'beach to be',scenic
+'Really beautiful long Beach',scenic
+'lot of water',scenic
+'nice and small',scenic
+'perfect beach for families',scenic
+'beach was much better',scenic
+'waves are smaller',scenic
+'super soft and',scenic
+'just squishes between',scenic
+'beach with limited food',scenic
+'most of Bentota',scenic
+'perfect spot for relaxation',scenic
+'nice golden sands',scenic
+'beach is covered',scenic
+'beach is very good',scenic
+'Very neat and clean',scenic
+'beach has public',scenic
+'lot of time',scenic
+'beautiful view of sea',scenic
+'good time at beach',scenic
+'view and great',scenic
+'beach at Bentota',scenic
+'Suitable for long walks',scenic
+'water sport enthusiasts',scenic
+'beach ever seen',scenic
+'beach very clean',scenic
+'Lots of people',scenic
+'great for swimming',scenic
+'fine to stroll',scenic
+'beach was beautiful',scenic
+'soft sand crystal',scenic
+'just few sundbeds',scenic
+'beach to relax',scenic
+'beach is clean',scenic
+'beach and plenty',scenic
+'water only coming',scenic
+'best to access',scenic
+'beach is tranquil',scenic
+'beach is perfect',scenic
+'Just great simple',scenic
+'best no beds',scenic
+'just pure beach',scenic
+'just amazing nothing',scenic
+'beach has calm',scenic
+'soft sand and',scenic
+'beach is also',scenic
+'waves was quite clean',scenic
+'just amazingly beautiful',scenic
+'Beautiful beach with miles',scenic
+'Great beach warm',scenic
+'water activities Clean',scenic
+'beautiful soft sand',scenic
+'see Putha in front',scenic
+'Good helpful guy',scenic
+'Beach is located',scenic
+'super beautiful beach',scenic
+'beach is great',scenic
+'good places to',scenic
+'beach is amazing',scenic
+'beach with golden sand',scenic
+'Nice and huge waves',scenic
+'best beaches in',scenic
+'water skiing and surfing',scenic
+'good local tutors',scenic
+'beach every morning',scenic
+'warm sea water',scenic
+'Great nature envolvment',scenic
+'lovely sun set',scenic
+'lovely to see',scenic
+'lovely beach fronting',scenic
+'beach are a',scenic
+'Great for swimming',scenic
+'see a life',scenic
+'quite easy to get',scenic
+'beach is the',scenic
+'see in photos',scenic
+'soft and clean',scenic
+'waves have proper',scenic
+'good for swimming',scenic
+'Lovely long sandy',scenic
+'good bars along',scenic
+'Lovely beach and',scenic
+'lot of other beaches',scenic
+'waves are smaller',scenic
+'beautiful golden sands',scenic
+'beautiful clean beach',scenic
+'pretty from afar',scenic
+'water is brown',scenic
+'beach is beautiful',scenic
+'love the Bentota',scenic
+'just full stretch',scenic
+'soft golden sand',scenic
+'beach with white sand',scenic
+'Great place to',scenic
+'warm water but not',scenic
+'Beach is lovely',scenic
+'Nice quite beach',scenic
+'well half of',scenic
+'super Ayuvedic Spa',scenic
+'beach is a little',scenic
+'just next to',scenic
+'beautiful beaches of Sri',scenic
+'really had a beautiful',scenic
+'beach every morning',scenic
+'beach as well',scenic
+'Great spot for sunset',scenic
+'Nice to walk',scenic
+'water is very warm',scenic
+'beach is clean',scenic
+'beach first thing',scenic
+'beach in Sri',scenic
+'waves and very relaxing',scenic
+'waves and good views',scenic
+'beach with soft sand',scenic
+'lovely place to',scenic
+'lots of pictures',scenic
+'Lovely big beach',scenic
+'nice place but',scenic
+'beach alot of bar',scenic
+'good place to forget',scenic
+'Very good wave to do',scenic
+'Fantastic lovely long',scenic
+'beautiful beach with white sand',scenic
+'Good for morning',scenic
+'beach being high water',scenic
+'beautiful stretch but impossible',scenic
+'very good to play',scenic
+'lot of space',scenic
+'nice waves to dive',scenic
+'most beautiful and clean',scenic
+'good time with morning',scenic
+'Beach is really',scenic
+'good for walk',scenic
+'beach was awesome',scenic
+'beach to get',scenic
+'beach with soft sand',scenic
+'good and clean',scenic
+'beach is unspoilt',scenic
+'lovely to see',scenic
+'beach with lines',scenic
+'beautiful calm and clean',scenic
+'beach these days',scenic
+'really long beach',scenic
+'water levels in',scenic
+'dangerous for children',scenic
+'beach a a few kilometres',scenic
+'Beautiful soft sand',scenic
+'beautiful long white',scenic
+'waves were pounding',scenic
+'lovely sound in',scenic
+'nice and peaceful',scenic
+'beach front wassuper',scenic
+'great walk along',scenic
+'nice and clean',scenic
+'lot of people',,scenic
+'most boring place',scenic
+'see a paradisiacal',scenic
+'view The coconut',scenic
+'lot of garbage',scenic
+'beach side so',scenic
+'beautiful and tranquil',scenic
+'beach with loungers',scenic
+'beach is extremely',scenic
+'Nice beach for',scenic
+'lot of time',scenic
+'see a pair',scenic
+'beautiful beach and wonderful',scenic
+'beach is packed',scenic
+'best beaches in Sri',scenic
+'Good place to watch',scenic
+'nice weather and',scenic
+'beach is very clean',scenic
+'water is wonderful',scenic
+'great to talk',scenic
+'Beach is a grea',scenic
+'nice and quiet',scenic
+'waves too rough',scenic
+'suitable for families',scenic
+'lovely to jump',scenic
+'warm nice to',scenic
+'very warm and clean',scenic
+'waves were huge',scenic
+'nice beach in',scenic
+'most beautiful views',scenic
+'beach of bentota',scenic
+'waves on foot',scenic
+'beach with wonderful sand',scenic
+'dangerous this time',scenic
+'Fantastic wide golden',scenic
+'waves and undercurrent',scenic
+'beach side hotels',scenic
+'very good and offer',scenic
+'Beach is good',scenic
+'good for surf',scenic
+'Great place for beach',scenic
+'warm and bearable',scenic
+'nice and clean',scenic
+'lot of hotels',scenic
+'see nice non',scenic
+'good book to',scenic
+'good decision as',scenic
+'beach is quite clean',scenic
+'nice restaurants to visit',scenic
+'beach behind Centara',scenic
+'beautiful long stretch',scenic
+'beautiful part of',scenic
+'beach in front',scenic
+'nice and clean',scenic
+'soft white sand',scenic
+'waves are not',scenic
+'perfect place in',scenic
+'beautiful sunset while',scenic
+'Beach has quite',scenic
+'good quality time',scenic
+'nice beach and not',scenic
+'good stretch of',scenic
+'really only used',scenic
+'waves are quiet large',scenic
+'very pleasant other times',scenic
+'Easy access from hotels',scenic
+'perfect timing for',scenic
+'great for long walks',scenic
+'beautiful views along',scenic
+'warm and safe',scenic
+'most beautiful beaches',scenic
+'most beaches in',scenic
+'beautiful beaches of',scenic
+'perfect place for everyone',scenic
+'great place to walk',scenic
+'Water was very clean',scenic
+'water was choppy',scenic
+'Beach was clean',scenic
+'Lovely place to walk',scenic
+'view is great',scenic
+'lots of greenery',scenic
+'lovely beach for',scenic
+'unsafe for swimming',scenic
+'nice clean beach',scenic
+'Great beach for long',scenic
+'Absolutely clean beach',scenic
+'beautiful stretch of sand',scenic
+'beach had lovely sand',scenic
+'warm waters with great',scenic
+'beach is a wonderful',scenic
+'Beach is perfect place',scenic
+'good and weekends',scenic
+'beach in August',scenic
+'Beautiful but no safe swimming',scenic
+'soft sand and',scenic
+'most just watched',scenic
+'beach was windswept',scenic
+'nice for beach',scenic
+'beach is very dirty',scenic
+'beautiful stretch of beach',scenic
+'beautiful beach with yellow gold',scenic
+'water was a',scenic
+'Beach is perfect',scenic
+'Nice Pristine beach',scenic
+'water are clean',scenic
+'water sports on',scenic
+'see some water',scenic
+'suitable for swimming',scenic
+'beach with spectacular view',scenic
+'water sports activity',scenic
+'water was a',scenic
+'Nice beach for jogging',scenic
+'Beach is neat',scenic
+'waves are a',scenic
+'waves are huge',scenic
+'Beach practically deserted',scenic
+'fine place to stay',scenic
+'Lovely beach with',scenic
+'water and beach',scenic
+'enough just to have',scenic
+'beach is lovely',scenic
+'fair bit of plastic',scenic
+'water was very rough',scenic
+'nasty rip tide',scenic
+'Lovely pristine quiet',scenic
+'beach with white sands',scenic
+'Great water sports',scenic
+'water scooter and',scenic
+'nice sandy beach',scenic
+'great waves and beautiful',scenic
+'great people in',scenic
+'beach is peaceful',scenic
+'good weather and',scenic
+'beach at Bentota',scenic
+'beautiful and unspoilt',scenic
+'Great to look',scenic
+'beach was just',scenic
+'beach is very clean',scenic
+'lot of hotels',scenic
+'View is very good',scenic
+'Nice lighthouse nearby',scenic
+'beach is clean',scenic
+'most beautiful to',scenic
+'water and big wave',scenic
+'beach is a beautiful',scenic
+'beach is very clean',scenic
+'water is blue',scenic
+'see river meeting',scenic
+'Most luxury hotels',scenic
+'sunset is lovely',scenic
+'beach and the lovely',scenic
+'sunset is amazing',scenic
+'best beaches in',scenic
+'beach was really',scenic
+'perfect location for photographs',scenic
+'warm and clean water',scenic
+'beach are wide',scenic
+'Soft and pleasant',scenic
+'Not good place to snorkeling',scenic
+'great place to',scenic
+'beach was clean',scenic
+'really a long',scenic
+'Beautiful sereen and',scenic
+'warm water but not',scenic
+'lovely endless sandy',scenic
+'just sit there',scenic
+'bad that i',scenic
+'beach was a wonderful',scenic
+'beach is very clean',scenic
+'beach has amenities',scenic
+'beach was clean',scenic
+'lot of plastic',scenic
+'beach is just',scenic
+'beach is beautiful',scenic
+'warm rich sand',scenic
+'Really so beautiful',scenic
+'just a brilliant view',scenic
+'really is a lovely',scenic
+'beach with blue Saffire',scenic
+'Waves were mild so',scenic
+'nice peaceful time',scenic
+'most beautiful beaches',scenic
+'most of time',scenic
+'really for swimming',scenic
+'Nice sandy beach to',scenic
+'suitable for kids',scenic
+'lots of fun',scenic
+'best to visit',scenic
+'Lovely long clean',scenic
+'Great beach to',scenic
+'Beautiful and clean beach',scenic
+'nice beach facing',scenic
+'beautiful beach right',scenic
+'wave surfing here',scenic
+'Very neat and clean',scenic
+'Very nice and clean',scenic
+'perfect spot for',scenic
+'beach of powdery',scenic
+'best beaches in',scenic
+'Most beautiful part',scenic
+'soft white sand',scenic
+'water is warm',scenic
+'beach was the best',scenic
+'Absolutely clean beach',scenic
+'lots of beach',scenic
+'beach late afternoon',scenic
+'beach is very',scenic
+'beautiful beach with miles',scenic
+'beach cleaners sweep',scenic
+'Beach is a',scenic
+'pretty clean however',scenic
+'really nice a',scenic
+'nice beach and good',scenic
+'lot of plastic',scenic
+'Lots of joggers',scenic
+
+
+'Lovely quiet beach',?
+'worth walking',?
+
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+
+'Comfortable outside bars',?
+'lot of driving',?
+'beach hotels in',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+'Nice clean sands',?
+
+'Nice clean sands',?
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'Comfortable outside bars',?
+'lot of driving',?
+'beach hotels in',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+'Nice clean sands',?
+'Lovely quiet beach',?
+'worth walking',?
+
+'worth walking',?
+'Lovely quiet beach',?
+'Nice clean sands',?
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'just a few people',?
+
+'just a few people',?
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'Comfortable outside bars',?
+'lot of driving',?
+'beach hotels in',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+'Nice clean sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Nice clean sands',?
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'just a few people',?
+'water was warm',?
+'waves were just brilliant',?
+'watch and jump',?
+'sands were nice',?
+
+'sands were nice',?
+'watch and jump',?
+'waves were just brilliant',?
+'water was warm',?
+'just a few people',?
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'Comfortable outside bars',?
+'lot of driving',?
+'beach hotels in',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+'Nice clean sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'beach hotels in',?
+
+'beach hotels in',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Nice clean sands',?
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'just a few people',?
+'water was warm',?
+'waves were just brilliant',?
+'watch and jump',?
+'sands were nice',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'sands were nice',?
+'watch and jump',?
+'waves were just brilliant',?
+'water was warm',?
+'just a few people',?
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'Comfortable outside bars',?
+'lot of driving',?
+'beach hotels in',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+'Nice clean sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'beach hotels in',?
+'Lovely quiet beach',?
+'worth walking',?
+
+'worth walking',?
+'Lovely quiet beach',?
+'beach hotels in',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Nice clean sands',?
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'just a few people',?
+'water was warm',?
+'waves were just brilliant',?
+'watch and jump',?
+'sands were nice',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'sands were nice',?
+'watch and jump',?
+'waves were just brilliant',?
+'water was warm',?
+'just a few people',?
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'Comfortable outside bars',?
+'lot of driving',?
+'beach hotels in',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+'Nice clean sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'beach hotels in',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'beach hotels in',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Nice clean sands',?
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'just a few people',?
+'water was warm',?
+'waves were just brilliant',?
+'watch and jump',?
+'sands were nice',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'sands were nice',?
+'watch and jump',?
+'waves were just brilliant',?
+'water was warm',?
+'just a few people',?
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'Comfortable outside bars',?
+'lot of driving',?
+'beach hotels in',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+'Nice clean sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'beach hotels in',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'beach hotels in',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Nice clean sands',?
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'just a few people',?
+'water was warm',?
+'waves were just brilliant',?
+'watch and jump',?
+'sands were nice',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+
+'Comfortable outside bars',?
+'lot of driving',?
+'beach hotels in',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'sands were nice',?
+'watch and jump',?
+'waves were just brilliant',?
+'water was warm',?
+'just a few people',?
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'Comfortable outside bars',?
+'lot of driving',?
+'beach hotels in',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+'Nice clean sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'beach hotels in',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+'Nice clean sands',?
+
+'Nice clean sands',?
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'beach hotels in',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Nice clean sands',?
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'just a few people',?
+'water was warm',?
+'waves were just brilliant',?
+'watch and jump',?
+'sands were nice',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'Comfortable outside bars',?
+'lot of driving',?
+'beach hotels in',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'sands were nice',?
+'watch and jump',?
+'waves were just brilliant',?
+'water was warm',?
+'just a few people',?
+'rocks and a lovely',?
+'beach is long',?
+'jump and play',?
+'waves are brilliant',?
+'Comfortable outside bars',?
+'lot of driving',?
+'beach hotels in',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+'Nice clean sands',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'beach hotels in',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'water was warm',?
+'waves were just',?
+'watch and jump',?
+'sands were nice',?
+'well as swimmers',?
+'Nice clean sands',?
+'Lovely quiet beach',?
+'worth walking',?
+
+'worth walking',?
+'Lovely quiet beach',?
+'Nice clean sands',?
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'beach hotels in',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Nice clean sands',?
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'just a few people',?
+'water was warm',?
+'waves were just brilliant',?
+'watch and jump',?
+'sands were nice',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'beach hotels in',?
+'lot of driving',?
+'Comfortable outside bars',?
+'waves are brilliant',?
+'jump and play',?
+'beach is long',?
+'rocks and a lovely',?
+'just a few people',?

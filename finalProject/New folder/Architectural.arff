@@ -1,0 +1,471 @@
+@relation critics_test
+
+@attribute text string
+@attribute NewNominal numeric
+@data
+'a nicer stupa',8.7
+'stupa is just',8
+'the very historic',8.8
+'Ancient place in',8.0
+'the most venerated Buddhist',9
+'walking',7.5
+'this very large stupa',8.5
+'place with many pilgrims',7
+'sacred Buddhist',8.2
+'stupa the best',8.9
+'stupa for free',8.3
+'Loved the elephant heads',9
+'historical Buddhist',8.5
+'white stupa',8.1
+'stupa dashing',8.5
+'surrounds the Ruwanwelisaya',5
+'Stupa embossed',8.2
+'stupa is incredibly large',8.6
+'good time to go',8
+'lots of people',6
+'combined by walking',7.5
+'really worth to',9
+'preparing the stupa',7.8
+'walk around even',7.5
+'A short walk',7.3
+'the sacred Sri Maha Bodhi',8.2
+'most amazing structures',9
+'B.C. The square location',5
+'ancient world',8.0
+'stupa is wound',7.0
+'lots of such stupas',8.0
+'place of buddhist',8
+'stupa is quite large',8.5
+'Best to go',9
+'Ruwanwalisaya dagoba',5
+'seround dagoba',8
+'Visited this grand Stupa',8.8
+'Buddha statue',8
+'Stupa premises',8.0
+'Dagoba or Stupa',8.0
+'Ruwanweli Dagoba',5
+'most venerated buddhist',9
+'historic Anuradhapura',8.0
+'see this colossal',8
+'dagoba was a',5
+'blend of historic',8.0
+'and current Buddhist',7
+'beautiful structure to',8
+'stupa is impressive',8.7
+'were many pilgrims',7
+'look ancient',8.0
+'great place to',9
+'really beautiful and',9
+'love Buddhist philosophy',9
+'brain of ancient',8.0
+'Great place to visit',9
+'Buddhist this Ruwanwali',7
+'stupa is most religious stupa',8.5
+'best time to',9
+'The most sacred stupa',8.5
+'best places to visit',9
+'great place to visit',9
+'best place for',9.0
+'great place to visit',9
+'beautiful and majestic',9
+'best religious and',9.0
+'Stupa besides lotus',8.3
+'really nice place to',9
+'Nice place to walk',8.0
+'well worth a',8
+'and very impressive stupa',8.7
+'sacred city',8.0
+'lot of worshipers',6
+'place with ancient budhist',8.2
+'Lot to see',8
+'well never foget',8
+'lovely evening and',9
+'the most sacred',8.5
+'lot of walking',7.8
+'Buddhist shrine',9
+'see this enormous Dagobar',9
+'nice building with',8.5
+'the most iconic Stupa',8.5
+'all other stupha',6
+'of great Ruwanwelisaya',8
+'see place in Sri',6
+'and huge stupa',8.5
+'most important places',8
+'missed by Buddhist',7
+'great history for',8.9
+'More suitable to visit',9
+'Anuradhapura Sacred',8.0
+'well as other temple',8
+'Located in sacred',8.0
+'Good Dagoba with',8
+'buddhist visitors',7
+'see the locals',7
+'the Biggest Dagoba',9
+'purposes by ancient',8
+'the biggest stupa',8.6
+'ancient chronology',8.1
+'walk barefoot',7.8
+'white Dagoba',8
+'beautiful sculptures of hundreds',9
+'Buddhist relics',8
+'nice helpful people',8.5
+'BC years AT',8
+'Jaya Sri Maha Bodhi',8
+'ancient times',8.0
+'Spectacular stupa',8.8
+'have a nice walk',8.0
+'Jaya Sri Maha Bodhi',8
+'Beautiful Dagoba',9
+'beautiful to watch',9
+'lovely local man',9
+'most peaceful site',9
+'stupa is distinct being',8.3
+'really was most impressive',9
+'most wonderful pagoda',9
+'feel the Buddhist',8
+'Ruwanwelisaya just',8
+'said this Stupa',8.0
+'stupa is very nice',8.9
+'beautiful view in',9
+'Walking distance',7.5
+'Good to visit',8
+'Very significant Buddhist',9
+'always good to go',8
+'great calmness and',9
+'most magnificent pagoda',9
+'Most sacred place',8.5
+'center of sacred',8.0
+'walking distance',7.5
+'suitable for visitors',8
+'ancient city',8.0
+'The overwhelmingly huge Dagoba',9
+'see this old man',5
+'see whilst visiting',5
+'beautiful experience watching',9
+'walk barefoot',7.8
+'Nice place to visit',8.5
+'suit this stupa',8.0
+'great to visit',9
+'working Buddhist',8
+'see a lot',8
+'best time to',9.0
+'Lots of pilgrims',7
+'sweet warm ginger',8
+'Best time to',9.0
+'stone walk',7.5
+'look ancient',8.0
+'Ruwanweliseya at night',8
+'and hard walk',6.0
+'great to visit',9
+'Just drive around',6
+'see the people',6
+'Best to visit',9.0
+'Abhayagiri and Ruwanwelisaya',8
+'the big stupa',8.5
+'best historical monument',8.8
+'place for Buddhist',8
+'sacred remains of load',8.0
+'A enormous Stupa',8.8
+'the most sacred',8.5
+'white Dagoba',8
+'great place to',9
+'really unforgetable and',9
+'DAGOBAH Ruwanwelisaya',8
+'and serene dagoba',8
+'lot of history',8.0
+'a huge dagoba',9
+'nice spiritual place',8.5
+'Walk down',7.5
+'great king Dutugemunu',5
+'best time to',9.0
+'Full of pilgrims',7
+'Buddhas sacred',8.8
+'stupa was being cleaned',8.6
+'Nice place to visit',8.5
+'walk bear',7.8
+'most amount of Lord',8
+'stupa is also',8
+'Buddhist due to',7
+'dagoba is huge',8
+'lots of pelgrims',7
+'visit the Dagoba',7
+'white dagoba',8
+'Buddhist sacred place',8.6
+'creations of ancient',8.0
+'calling as Stupa',8
+'Dagoba in sinhalees',7
+'see many kind',8
+'really hot to',4
+'experience the local Buddhist',6
+'Beautiful Stupa',8.6
+'stupa the most',8
+'visiting an ancient',8.0
+'ancient stupas',8.5
+'Ruwanweli Stupa',8.0
+'an ancient Buddhist',8.2
+'stupa has the',8.0
+'most eye-catching site',9
+'great sites to see',9
+'socks as walking',7.5
+'view is mind',9
+'Loved the many Buddhist',9
+'ancient kingdom',8.1
+'beautiful park of majestic trees',9
+'Sacred Bo tree',8.5
+'just really hot and',4
+'seeing many pilgrims',7
+'Ruwanwelisseya Dagoba',8
+'beautiful at night',9
+'Buddhist places',7
+'great monument built',9
+'ancient kings',8.0
+'super way to view',8
+'Stupa is well maintained',8.6
+'Beautiful and peace',9
+'walk on normal',7.5
+'beautiful bodhi trees',9
+'walk barefoot',7.8
+'neat and clean',9
+'worship this gigantic dagoba',9
+'see the wonder',9
+'ancient Sri Lankan',8.0
+'designed this dagoba',7
+'outstanding religious structure',9
+'Ancient structure in',8.1
+'Ruwanwelisseya Dagoba',8
+'nice to see',8.5
+'lot of hard work',7
+'Buddhist place of Worship',8
+'the biggest stupa',8.5
+'nice view in',8.5
+'well as evening',8
+'pretty hot to',8
+'best time to visit',9.0
+'very sacred',8.8
+'nice mental relax',8.5
+'ancient city',8.0
+'This white dagoba',8
+'good photo opportunity',8
+'walking distance',7.5
+'sacred bodhi tree',8.5
+'hundreds of white-clad pilgrims',7
+'A very interesting Dagoba',9
+'Ruwanwali Stupa',8
+'Anuradhapura sacred',8.0
+'Maha Stupa',8.5
+'historic granite',8.3
+'stupa is quite popular',8.7
+'with many sacred',8.6
+'the best Dagoba',9.0
+'great history and',8.8
+'Best time to visit',9.0
+'comfortable than bus',7
+'beautiful place to visit',9
+'Anuradhapura sacred',8.0
+'sacred Bo',8.5
+'historic monastery',8.0
+'Ruwanwelisseya Dagoba',8
+'good place for worship',8
+'strolling around Dagoba',7
+'sacred place in',8.0
+'stupa was built',8
+'the current Stupa',8
+'Best time to visit',9.0
+'always best to visit',9.0
+'masterclass in ancient',8.8
+'Ruwanweliseya Dagoba',9
+'an ancient dagoba',8.0
+'a long walk',7.6
+'the largest stupa',8.5
+'sacred place',8.0
+'great place to visit',8
+'ancient site',8.0
+'nice place to',8.5
+'lot of time',7
+'lots of locals',6
+'lots of history',8.0
+'The great stupa',8.8
+'sacred place for Buddhists',8.5
+'largest dagoba',9
+'best attractions in Anuradapura',9.0
+'situated walking',7.5
+'a beautiful dagoba',9
+'Just a peaceful experience',8
+'Great place to',9
+'Great Stupa',8.8
+'ancient world',8.0
+'find the old Stupa',8.4
+'ancient Anuradhapura kingdom',8.0
+'Great energy and',9
+'well worth a',8
+'Buddhist scriptures',8
+'minutes walk',7.5
+'sacred Bo tree',8.5
+'Best times to',9.0
+'Beautiful place to visit',9
+'Good location for meditation',8
+'location for Buddhist',7
+'great value to',9
+'ancient city of Anuradhapura',8.0
+'Stupa is well lit',8.6
+'most well maintained',9
+'lot of locals',7
+'this old buddhist',9
+'Beautiful ancient Dagoba',8.6
+'sacred place of prayer',8.5
+'set very nice Ruwanweliseya',9
+'most important pagodas',8
+'Ruwanweliseya is nice pagoda',8.5
+'the ancient sacred',8.5
+'sand stupa',8.0
+'the supremely glorious ancient',8.9
+'ancient ability',8.0
+'Walk round',7.5
+'dagoba alone',7
+'really very hot',4
+'Dagoba is very impressive',9
+'temple for Buddhist',7
+'Great place for meditation',9
+'Best time to visit',9.0
+'stupa is visible',8.0
+'see the craftsmanship',8
+'really worth a',9
+'the largest Stupa',8.5
+'best thing to do',9.0
+'take a walk',7.5
+'great attractions of',9
+'the ancient sacred',8.5
+'sacred area',8.0
+'just the dirty floor',3
+'ancient people',8.9
+'walk on bare foot',8
+'ancient city',8.9
+'this marvelous ancient',8.8
+'perfect occasion to',9
+'lot of people',4
+'mostly local Buddhist',6
+'Buddhist flags hanging',8
+'just look bless',9
+'heat and stupa',7.5
+'really is worth',9
+'extended dagoba',9
+'extended walk',7.7
+'beautiful and majestic',9
+'ancient temple on',8.0
+'beautiful and majestic',9
+'mins walk',7.5
+'this short walk',7.5
+'sacred city of Anuradhapura',8.6
+'nice place to',8.5
+'giant white Stupa',8.2
+'nice in early morning',8.5
+'great and historical',8.8
+'sacred places',8.6
+'ancient Sri Lanka',8.0
+'most underrated historical',8.9
+'stupa is an architectural',8.2
+'Great and historical',8.8
+'stupa is enormous',8.8
+'see lots of Buddhists',8
+'beauty of ancient',8.5
+'skills of ancient',8.5
+'stupa is awesome',8.8
+'ancient city of Anuradhapura',8.0
+'ancient history',8.0
+'Just another stupa',7.8
+'This gigantic Buddhist',8
+'ancient and sacred city',8.5
+'Ancient World',8.0
+'very well worth the',9
+'a magnificent Stupa',8.7
+'perfect water bubble',8
+'Sacred Bo Tree',8.6
+'visited by many pilgrims',7
+'ancient rulers',8.0
+'great piece of ancient Sri',8.8
+'great tranquilizing feeling',9
+'beautiful piece of',9
+'see the ruins',8
+'Dagoba is Pretty',9
+'delicate western feet',9
+'Great day out',9
+'lot of filth',2
+'most famous contruction',9
+'really beautiful creation',9
+'see historical place',8
+'most sacret place',9
+'restored stupa',7.9
+'surrounded by decorative elephant heads',8
+'Ruwanweliseya is the largest',9
+'sunset or early morning',7
+'Nice place to see',8.5
+'well mainteined and',8
+'Good to be',8
+'great reverence and',9
+'lot of developments',8
+'largest stupa',8.5
+'such ancient',8.0
+'Nice to see',8.5
+'with colorful Buddhist',8
+'Simply walk',7.5
+'ancient city area',8.0
+'see the attractions',8
+'and impressive dagoba',8
+'visit and walk',7.5
+'dagoba is fully filled',7
+'a nice walk',8.0
+'Perfect place to calm',8
+'beautiful place to start',9
+'deterrent is walking',4
+'lot of people',6
+'Well worth walking',7.8
+'Great Pyramids of',9
+'sacred place that ranks',8.6
+'see the big dagoba',8
+'really hot to',4
+'Pilgrims are happy',8
+'nice to see',8.5
+'b.c. The white dome',8
+'a striking dagoba',8
+'pleasant park setting',8
+'the largest stupa',8.5
+'best time to visit',9.0
+'caos The most revered stupa',8.5
+'sacred bodhi tree',8
+'the other ancient',8.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

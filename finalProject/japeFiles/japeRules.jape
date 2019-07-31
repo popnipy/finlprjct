@@ -1,0 +1,4469 @@
+Phase:firstpass
+Input:  Lookup  Token 
+Options: control = brill
+
+Rule:Beach_1A
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+   (
+   {Token.kind==word, Token.category==NN}
+   )
+   (
+   {Token.kind==word, Token.category==CC}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  
+):Rule2
+ -->  
+:Rule2.BeachPhrases = {rule= "Beach_1A" } 
+
+Rule: Beach_1B
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+  
+   
+   (
+   {Token.kind==word, Token.category==NN}
+   )?
+   (
+   {Token.kind==word, Token.category==CC}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1B" } 
+
+Rule: Beach_1C
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+  
+   
+   (
+   {Token.kind==word, Token.category==NN}
+   )
+   (
+   {Token.kind==word, Token.category==CC}
+   )?
+   (
+   {Token.kind==word, Token.category==RB}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1C" } 
+
+Rule: Beach_1D
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+  
+   
+   (
+   {Token.kind==word, Token.category==NN}
+   )
+   (
+   {Token.kind==word, Token.category==CC}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   )?
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1D" } 
+
+
+
+Rule: Beach_1E
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+  
+   
+   (
+   {Token.kind==word, Token.category==NN}
+   )
+   (
+   {Token.kind==word, Token.category==CC}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1E" } 
+
+
+Rule: Beach_1F
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+  
+   (
+   {Token.kind==word, Token.category==CC}
+   )?
+   (
+   {Token.kind==word, Token.category==NN}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1F" } 
+
+
+Rule: Beach_1G
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+  
+   (
+   {Token.kind==word, Token.category==CC}
+   )
+   (
+   {Token.kind==word, Token.category==NN}
+   )?
+   (
+   {Token.kind==word, Token.category==RB}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1G" } 
+
+Rule: Beach_1H
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+  
+   (
+   {Token.kind==word, Token.category==CC}
+   )
+   (
+   {Token.kind==word, Token.category==NN}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   )?
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1H"}
+
+
+Rule: Beach_1I
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+  
+   (
+   {Token.kind==word, Token.category==CC}
+   )
+   (
+   {Token.kind==word, Token.category==NN}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1I" }  
+
+Rule: Beach_1J
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+  
+   (
+   {Token.kind==word, Token.category==CC}
+   )?
+   (
+   {Token.kind==word, Token.category==NN}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1J" } 
+
+
+Rule: Beach_1K
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+  
+   (
+   {Token.kind==word, Token.category==CC}
+   )
+   (
+   {Token.kind==word, Token.category==NN}
+   )?
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1K" } 
+
+Rule: Beach_1L
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+  
+   (
+   {Token.kind==word, Token.category==CC}
+   )
+   (
+   {Token.kind==word, Token.category==NN}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1L" } 
+
+
+Rule: Beach_1M
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+   
+   (
+   {Token.kind==word, Token.category==NN}
+   )?
+   (
+   {Token.kind==word, Token.category==CC}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   |
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1M"} 
+
+
+Rule: Beach_1N
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+   
+   (
+   {Token.kind==word, Token.category==NN}
+   )
+   (
+   {Token.kind==word, Token.category==CC}
+   )?
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   |
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1N"} 
+
+
+Rule: Beach_1O
+Priority:10
+(
+  ({Lookup.majorType == "adbc"})
+   
+   (
+   {Token.kind==word, Token.category==NN}
+   )
+   (
+   {Token.kind==word, Token.category==CC}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   |
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+   
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_1O"}
+
+
+Rule: Beach_2A
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+   ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_2A"}  
+
+Rule: Beach_2B
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+   ({Lookup.majorType == "adbc"}) ?
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_2B"}
+
+Rule: Beach_2C
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+   ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_2C"}
+
+Rule: Beach_2D
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "adbc"})?
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_2D"}
+
+Rule: Beach_2E
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "adbc"})
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_2E"}
+
+Rule: Beach_2F
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "adbc"})
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )? 
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_2D"}
+
+
+
+Rule: Beach_3A
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "organization"})?
+   ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   |
+   {Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3A"}
+
+Rule: Beach_3B
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "organization"})
+    ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   |
+   {Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )?
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3B"}
+
+Rule: Beach_3C
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "organization"})
+    ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   |
+   {Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?    
+  
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3C"}
+
+Rule: Beach_3D
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "organization"})?
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )   
+   ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   |
+    {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3D"}
+
+Rule: Beach_3E
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "organization"})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )? 
+   ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3E"}
+
+Rule: Beach_3F
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "organization"})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )   
+   ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+    ({Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3F"}
+
+Rule: Beach_3G
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "organization"})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )   
+   ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+
+(
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3G"}
+
+Rule: Beach_3H
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   ({Lookup.majorType == "organization"})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3H"}
+
+Rule: Beach_3I
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+   ({Lookup.majorType == "organization"})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3I"}
+
+Rule: Beach_3J
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   ({Lookup.majorType == "organization"})?
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3J"}
+
+Rule: Beach_3K
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   ({Lookup.majorType == "organization"})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3K"}
+
+Rule: Beach_3L
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   ({Lookup.majorType == "organization"})
+   ({Lookup.majorType == "adbc"})
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3L"}
+
+Rule: Beach_3M
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+   ({Lookup.majorType == "organization"})
+   ({Lookup.majorType == "adbc"})
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3M"}
+
+Rule: Beach_3N
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   ({Lookup.majorType == "organization"})?
+   ({Lookup.majorType == "adbc"})
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3N"}
+
+Rule: Beach_3O
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   ({Lookup.majorType == "organization"})
+   ({Lookup.majorType == "adbc"})?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3O"}
+
+Rule: Beach_3P
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   ({Lookup.majorType == "organization"})
+   ({Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3P"}
+
+Rule: Beach_3P
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+   ({Lookup.majorType == "organization"})
+   ({Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3P"}
+
+Rule: Beach_3Q
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   ({Lookup.majorType == "organization"})?
+   ({Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3Q"}
+
+Rule: Beach_3R
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   ({Lookup.majorType == "organization"})
+   ({Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_3R"}
+
+Rule: Beach_4A
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "organization"})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_4A"}
+
+Rule: Beach_4B
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "organization"})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   (
+   {Token.kind==word, Token.category==JJ})
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?    
+   
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_4B"}
+
+Rule: Beach_4C
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   ({Lookup.majorType == "organization"})?
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_4C"}
+
+Rule: Beach_5A
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )?
+   ({Lookup.majorType == "adbc"})
+   ({Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==CC})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5A"}
+
+Rule: Beach_5B
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   ({Lookup.majorType == "adbc"})?
+   ({Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==CC})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5B"}
+
+Rule: Beach_5C
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   ({Lookup.majorType == "adbc"})
+   ({Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==CC})?
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5C"}
+
+Rule: Beach_5D
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   ({Lookup.majorType == "adbc"})
+   ({Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==CC})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5D"}
+
+Rule: Beach_5E
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   ({Lookup.majorType == "adbc"})
+   ({Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==CC})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5E"}
+
+
+
+Rule: Beach_5F
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5F"}
+
+Rule: Beach_5G
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )?
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5G"}
+
+Rule: Beach_5H
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5H"}
+
+Rule: Beach_5I
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5I"}
+
+Rule: Beach_5J
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )?
+   ({Lookup.majorType == "adbc"})
+   ({Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==CC})
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5J"}
+
+Rule: Beach_5K
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )?
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5K"}
+
+Rule: Beach_5L
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5L"}
+
+Rule: Beach_5M
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_5M"}
+
+Rule: Beach_6A
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )?
+    (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_6A"}
+
+
+Rule: Beach_6B
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+    (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_6B"}
+
+Rule: Beach_6C
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+    (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_6C"}
+
+Rule: Beach_6D
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+    (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?     
+   
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_6D"}
+
+Rule: Beach_7A
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ( {Token.kind==word, Token.category==TO})?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7B"}
+
+Rule: Beach_7A
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?     
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ( {Token.kind==word, Token.category==TO})?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7B"}
+
+Rule: Beach_7C
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+   ( {Token.kind==word, Token.category==TO})?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7C"}
+
+Rule: Beach_7D
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ( {Token.kind==word, Token.category==TO})?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7D"}
+
+Rule: Beach_7E
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ( {Token.kind==word, Token.category==TO})?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7E"}
+
+
+Rule: Beach_7F
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   ( {Token.kind==word, Token.category==TO})
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7F"}
+
+Rule: Beach_7G
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?     
+   ( {Token.kind==word, Token.category==TO})
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7G"}
+
+Rule: Beach_7H
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   ( {Token.kind==word, Token.category==TO})?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7H"}
+
+Rule: Beach_7I
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+(
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   ( {Token.kind==word, Token.category==TO})?
+    (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7I"}
+
+Rule: Beach_7J
+Priority:10
+(
+ ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7J"}
+
+Rule: Beach_7K
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )?
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7K"}
+
+
+Rule: Beach_7L
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7L"}
+
+Rule: Beach_7M
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7M"}
+
+Rule: Beach_7N
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   ( {Token.kind==word, Token.category==TO})
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7N"}
+
+Rule: Beach_7O
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?     
+   ( {Token.kind==word, Token.category==TO})
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7O"}
+
+Rule: Beach_7P
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   ( {Token.kind==word, Token.category==TO})?
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7P"}
+
+Rule: Beach_7Q
+Priority:10
+(
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+  ({Lookup.majorType == "adbc"}) 
+   (
+   {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+   ( {Token.kind==word, Token.category==TO})
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_7Q"}
+
+
+
+
+Rule: Beach_8A
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )?
+   ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   ({Lookup.majorType == "adbc"}) 
+   
+   ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_8A"}
+
+Rule: Beach_8B
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   ({Lookup.majorType == "adbc"})? 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   ({Lookup.majorType == "adbc"}) 
+   
+   ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_8B"}
+
+Rule: Beach_8C
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )?
+   ({Lookup.majorType == "adbc"}) 
+   
+   ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_8C"}
+
+Rule: Beach_8D
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   ({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )
+   ({Lookup.majorType == "adbc"})? 
+   
+   ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_8D"}
+
+Rule: Beach_8E
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )+
+   ({Lookup.majorType == "adbc"})+ 
+    
+   
+   ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_8E"}
+
+Rule: Beach_9A
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+ (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9A"}
+
+Rule: Beach_9B
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+ (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9B"}
+
+Rule: Beach_9C
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+ (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9C"}
+
+Rule: Beach_9D
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+({Lookup.majorType == "organization"})? 
+ (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9D"}
+
+Rule: Beach_9E
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+({Lookup.majorType == "organization"})
+ (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9E"}
+
+Rule: Beach_9F
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+({Lookup.majorType == "organization"})
+ (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9F"}
+
+Rule: Beach_9G
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+({Lookup.majorType == "organization"}) 
+ (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9G"}
+
+Rule: Beach_9H
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+({Lookup.majorType == "organization"})? 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9H"}
+
+Rule: Beach_9I
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+({Lookup.majorType == "organization"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+   (
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9I"}
+
+Rule: Beach_9J
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   ) 
+  (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS})
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9J"}
+
+Rule: Beach_9K
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   )? 
+  (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS})
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9K"}
+
+Rule: Beach_9L
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   ) 
+  (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS})
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9L"}
+
+Rule: Beach_9M
+Priority:10
+(
+({Lookup.majorType == "adbc"}) 
+({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   ) 
+  (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS})?
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_9M"}
+
+Rule: Beach_11A
+Priority:10
+(
+({Lookup.majorType == "adbc"})
+( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?     
+ ({Token.kind==word, Token.category==IN})
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_11A"}
+
+Rule: Beach_11B
+Priority:10
+(
+({Lookup.majorType == "adbc"})
+( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )    
+ ({Token.kind==word, Token.category==IN})?
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_11B"}
+
+Rule: Beach_11C
+Priority:10
+(
+({Lookup.majorType == "adbc"})
+( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )  
+ ({Token.kind==word, Token.category==IN})
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_11C"}
+
+Rule: Beach_11D
+Priority:10
+(
+({Lookup.majorType == "adbc"})
+( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )   
+ ({Token.kind==word, Token.category==IN})
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?     
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_11D"}
+
+Rule: Beach_11E
+Priority:10
+(
+({Lookup.majorType == "adbc"})
+( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?     
+ ({Token.kind==word, Token.category==IN})
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_11E"}
+
+Rule: Beach_11F
+Priority:10
+(
+({Lookup.majorType == "adbc"})
+( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+ ({Token.kind==word, Token.category==IN})?
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_11F"}
+
+Rule: Beach_11G
+Priority:10
+(
+({Lookup.majorType == "adbc"})
+( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )   
+ ({Token.kind==word, Token.category==IN})
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?    
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_11G"}
+Rule: Beach_11H
+Priority:10
+(
+({Lookup.majorType == "adbc"})
+( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )     
+ ):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_11H"}
+
+Rule: Beach_12A
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   ({Lookup.majorType == "organization"})
+   ({Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_12A"}
+
+Rule: Beach_12B
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})?
+   ({Lookup.majorType == "organization"})
+   ({Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )+
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_12B"}
+
+Rule: Beach_12C
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   ({Lookup.majorType == "organization"})?
+   ({Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )+
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_12C"}
+
+Rule: Beach_12D
+Priority:10
+(
+  ({Lookup.majorType == "adbc"}) 
+  ({Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS})
+   ({Lookup.majorType == "organization"})
+   ({Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )?
+):Rule1
+ -->  
+:Rule1.BeachPhrases = {rule= "Beach_12D"}
+
+
+
+Rule: Activity_1A
+Priority:10
+(
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+    ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )
+    (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   |
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+  ({Lookup.majorType == "cdg"}) 
+   
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_1A"}
+
+Rule: Activity_1B
+Priority:10
+(
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+    ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+    (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   |
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+  ({Lookup.majorType == "cdg"}) 
+   
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_1B"}
+
+Rule: Activity_1C
+Priority:10
+(
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+    ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+    (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   |
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )?
+  ({Lookup.majorType == "cdg"}) 
+   
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_1C"}
+
+
+
+ Rule: Activity_2A
+Priority:10
+(
+ ({Lookup.majorType == "cdg"}) 
+ ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   |
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+   
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+      
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_2A"}
+
+ Rule: Activity_2B
+Priority:10
+(
+ ({Lookup.majorType == "cdg"}) 
+ ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   |
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+   
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+      
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_2B"}
+   
+Rule: Activity_2C
+Priority:10
+(
+ ({Lookup.majorType == "cdg"}) 
+ ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   |
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )?
+   
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+      
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_2C"}
+    
+Rule: Activity_3A
+Priority:10
+(
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+    ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+    (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+  ({Lookup.majorType == "cdg"}) 
+   
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_3A"}
+
+Rule: Activity_3B
+Priority:10
+(
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+    ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+    (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+  ({Lookup.majorType == "cdg"}) 
+   
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_3B"}
+
+Rule: Activity_3C
+Priority:10
+(
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+    ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+    (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+  ({Lookup.majorType == "cdg"}) 
+   
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_3C"}
+
+Rule: Activity_3D
+Priority:10
+(
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+    ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+    (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )?
+  ({Lookup.majorType == "cdg"}) 
+   
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_3D"}
+   
+Rule: Activity_4A
+Priority:10
+(
+ ({Lookup.majorType == "cdg"}) 
+ ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+   
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+      
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_4A"}
+
+Rule: Activity_4B
+Priority:10
+(
+ ({Lookup.majorType == "cdg"}) 
+ ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+   
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+      
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_4B"}
+
+Rule: Activity_4C
+Priority:10
+(
+ ({Lookup.majorType == "cdg"}) 
+ ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )?
+   
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+      
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_4C"}
+
+Rule: Activity_4D
+Priority:10
+(
+ ({Lookup.majorType == "cdg"}) 
+ ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+   
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+      
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_4D"}
+
+Rule: Activity_5A
+Priority:10
+(
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+    ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+    (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )  
+  ({Lookup.majorType == "cdg"}) 
+   
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_5A"}
+
+Rule: Activity_5B
+Priority:10
+(
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+    ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+    (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )  
+  ({Lookup.majorType == "cdg"}) 
+   
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_5B"}
+
+Rule: Activity_5C
+Priority:10
+(
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+    ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )?
+    (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )  
+  ({Lookup.majorType == "cdg"}) 
+   
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_5C"}
+
+Rule: Activity_5D
+Priority:10
+(
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+    ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+    (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )? 
+  ({Lookup.majorType == "cdg"}) 
+   
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_5D"}
+
+Rule: Activity_6A
+Priority:10
+(
+ ({Lookup.majorType == "cdg"}) 
+ ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )  
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+      
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_6A"}
+
+Rule: Activity_6B
+Priority:10
+(
+ ({Lookup.majorType == "cdg"}) 
+ ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )  
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )?
+      
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_6B"}
+
+Rule: Activity_6C
+Priority:10
+(
+ ({Lookup.majorType == "cdg"}) 
+ ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )?  
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+      
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_6C"}
+
+
+Rule: Activity_6D
+Priority:10
+(
+ ({Lookup.majorType == "cdg"}) 
+ ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )?
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )?
+ (
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )  
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   |
+   {Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+      
+):Rule22
+ -->  
+:Rule22.BeachPhrases = {rule= "Activity_6D"}
+
+Rule: additionalA
+Priority:10
+( 
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )
+  ({Lookup.majorType == "date"})
+   
+):Ruleadda
+ -->  
+:Ruleadda.BeachPhrases = {rule= "additionalA"}
+
+
+Rule: additionalB
+Priority:10
+( 
+  ({Lookup.majorType == "date"})
+  ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )
+  
+   
+):Ruleaddb
+ -->  
+:Ruleaddb.BeachPhrases = {rule= "additionalB"}
+
+
+

@@ -1,0 +1,10 @@
+@relation 'testing1-weka.filters.unsupervised.attribute.Add-TNOM-NNewNominal-Lactivity,scenic-Clast'
+
+@attribute text string
+@attribute NewNominal {activity,scenic}
+
+@data
+'perfect for standing',?
+'really a beach',?
+'surf strolling',?
+'beach is huge',?

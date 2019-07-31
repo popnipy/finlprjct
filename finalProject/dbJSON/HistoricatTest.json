@@ -1,0 +1,477 @@
+{ 
+    "_id" : ObjectId("593db7b7a9644318c8be64b1"), 
+    "Type" : "Beach", 
+    "Name" : "The Golden Temple", 
+    "Phrases" : {
+        "SA" : "most other temples", 
+        "S&L" : "rock persistently trying"
+    }
+}
+{ 
+    "_id" : ObjectId("593db7baa9644318c8be64b3"), 
+    "Type" : "Beach", 
+    "Name" : "The Golden Temple", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7bea9644318c8be64b6"), 
+    "Type" : "Beach", 
+    "Name" : "The Golden Temple", 
+    "Phrases" : {
+        "S&L" : "really well done", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7c0a9644318c8be64b8"), 
+    "Type" : "Beach", 
+    "Name" : "The Golden Temple", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7c7a9644318c8be64bb"), 
+    "Type" : "Beach", 
+    "Name" : "The Golden Temple", 
+    "Phrases" : {
+        "S&L" : "place is beautiful", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7c9a9644318c8be64bd"), 
+    "Type" : "Beach", 
+    "Name" : "The Golden Temple", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7cfa9644318c8be64c1"), 
+    "Type" : "Beach", 
+    "Name" : "The Golden Temple", 
+    "Phrases" : {
+        "SA" : "most other temples", 
+        "S&L" : "rock persistently trying"
+    }
+}
+{ 
+    "_id" : ObjectId("593db7d1a9644318c8be64c3"), 
+    "Type" : "Beach", 
+    "Name" : "The Golden Temple", 
+    "Phrases" : {
+        "S&L" : "really well done", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7d5a9644318c8be64c6"), 
+    "Type" : "Beach", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Phrases" : {
+        "S&L" : "good condition", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7d9a9644318c8be64c9"), 
+    "Type" : "Beach", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Phrases" : {
+        "S&L" : "Hiking is not", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7dba9644318c8be64cb"), 
+    "Type" : "Beach", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Phrases" : {
+        "SA" : "rock in 5th century", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7e1a9644318c8be64cf"), 
+    "Type" : "Beach", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Phrases" : {
+        "SA" : "most famous sight", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7e5a9644318c8be64d2"), 
+    "Type" : "Beach", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Phrases" : {
+        "S&L" : "view is astonishing", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7e7a9644318c8be64d4"), 
+    "Type" : "Beach", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7e9a9644318c8be64d6"), 
+    "Type" : "Beach", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "Sri Lanka then visit"
+    }
+}
+{ 
+    "_id" : ObjectId("593db7eba9644318c8be64d8"), 
+    "Type" : "Beach", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Phrases" : {
+        "SA" : "rock in 5th century", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7efa9644318c8be64db"), 
+    "Type" : "Beach", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Phrases" : {
+        "SA" : "ancient palace or", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7f2a9644318c8be64dd"), 
+    "Type" : "Beach", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7f4a9644318c8be64df"), 
+    "Type" : "Beach", 
+    "Name" : "Koneswaram Temple", 
+    "Phrases" : {
+        "SA" : "temple is also", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7f6a9644318c8be64e1"), 
+    "Type" : "Beach", 
+    "Name" : "Koneswaram Temple", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7f8a9644318c8be64e3"), 
+    "Type" : "Beach", 
+    "Name" : "Koneswaram Temple", 
+    "Phrases" : {
+        "S&L" : "a Very long history", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db7faa9644318c8be64e5"), 
+    "Type" : "Beach", 
+    "Name" : "Koneswaram Temple", 
+    "Phrases" : {
+        "SA" : "temple and see", 
+        "S&L" : "bit of climbing"
+    }
+}
+{ 
+    "_id" : ObjectId("593db7fca9644318c8be64e7"), 
+    "Type" : "Beach", 
+    "Name" : "Koneswaram Temple", 
+    "Phrases" : {
+        "S&L" : "amazing Temple", 
+        "SA" : "history and rituals"
+    }
+}
+{ 
+    "_id" : ObjectId("593db7fea9644318c8be64e9"), 
+    "Type" : "Beach", 
+    "Name" : "Koneswaram Temple", 
+    "Phrases" : {
+        "S&L" : "Really a Must-", 
+        "SA" : "See in Sri"
+    }
+}
+{ 
+    "_id" : ObjectId("593db800a9644318c8be64eb"), 
+    "Type" : "Beach", 
+    "Name" : "Koneswaram Temple", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "walk is quite nice"
+    }
+}
+{ 
+    "_id" : ObjectId("593db806a9644318c8be64ef"), 
+    "Type" : "Beach", 
+    "Name" : "Koneswaram Temple", 
+    "Phrases" : {
+        "S&L" : "back last month to", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db809a9644318c8be64f1"), 
+    "Type" : "Beach", 
+    "Name" : "Koneswaram Temple", 
+    "Phrases" : {
+        "SA" : "temple is also", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db818a9644318c8be64f3"), 
+    "Type" : "Beach", 
+    "Name" : "Koneswaram Temple", 
+    "Phrases" : {
+        "SA" : "temple and see", 
+        "S&L" : "bit of climbing"
+    }
+}
+{ 
+    "_id" : ObjectId("593db81ca9644318c8be64f6"), 
+    "Type" : "Beach", 
+    "Name" : "Koneswaram Temple", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "back again sure"
+    }
+}
+{ 
+    "_id" : ObjectId("593db81ea9644318c8be64f8"), 
+    "Type" : "Beach", 
+    "Name" : "Mihintale", 
+    "Phrases" : {
+        "SA" : "place is an ancient", 
+        "S&L" : "important place"
+    }
+}
+{ 
+    "_id" : ObjectId("593db820a9644318c8be64fa"), 
+    "Type" : "Beach", 
+    "Name" : "Mihintale", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "nice n"
+    }
+}
+{ 
+    "_id" : ObjectId("593db822a9644318c8be64fc"), 
+    "Type" : "Beach", 
+    "Name" : "Mihintale", 
+    "Phrases" : {
+        "S&L" : "hill was covered", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db824a9644318c8be64fe"), 
+    "Type" : "Beach", 
+    "Name" : "Mihintale", 
+    "Phrases" : {
+        "SA" : "sacred place for Buddhists", 
+        "S&L" : "important places"
+    }
+}
+{ 
+    "_id" : ObjectId("593db827a9644318c8be6500"), 
+    "Type" : "Beach", 
+    "Name" : "Mihintale", 
+    "Phrases" : {
+        "S&L" : "climb was very nice", 
+        "SA" : "Dagoba was super"
+    }
+}
+{ 
+    "_id" : ObjectId("593db835a9644318c8be6506"), 
+    "Type" : "Beach", 
+    "Name" : "Mihintale", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "top were great"
+    }
+}
+{ 
+    "_id" : ObjectId("593db838a9644318c8be6508"), 
+    "Type" : "Beach", 
+    "Name" : "Mihintale", 
+    "Phrases" : {
+        "S&L" : "rock is not covered", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db83aa9644318c8be650a"), 
+    "Type" : "Beach", 
+    "Name" : "Mihintale", 
+    "Phrases" : {
+        "S&L" : "hill was covered", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db83ca9644318c8be650c"), 
+    "Type" : "Beach", 
+    "Name" : "Mihintale", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db83ea9644318c8be650e"), 
+    "Type" : "Beach", 
+    "Name" : "Mihintale", 
+    "Phrases" : {
+        "S&L" : "Buddhas doctrine to", 
+        "SA" : "Buddhist civilization of Sri"
+    }
+}
+{ 
+    "_id" : ObjectId("593db84ba9644318c8be6513"), 
+    "Type" : "Beach", 
+    "Name" : "Mihintale", 
+    "Phrases" : {
+        "S&L" : "stone cut stairs", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db84da9644318c8be6515"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "SA" : "tradition with amazing history", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db84fa9644318c8be6517"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db851a9644318c8be6519"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "see the more"
+    }
+}
+{ 
+    "_id" : ObjectId("593db854a9644318c8be651b"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db856a9644318c8be651d"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "S&L" : "August Pageant", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db85fa9644318c8be6520"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "S&L" : "lovely to see", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db861a9644318c8be6522"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "SA" : "learn the history", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db863a9644318c8be6524"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "lot to see"
+    }
+}
+{ 
+    "_id" : ObjectId("593db866a9644318c8be6526"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "S&L" : "large and overcrowded", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db868a9644318c8be6528"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "see the more tranquil"
+    }
+}
+{ 
+    "_id" : ObjectId("593db86fa9644318c8be652a"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "S&L" : "lovely to see", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db872a9644318c8be652c"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "SA" : "learn the history", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db874a9644318c8be652e"), 
+    "Type" : "Beach", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}

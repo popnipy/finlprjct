@@ -1,0 +1,170 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.my.book</groupId>
+	<artifactId>simple-mongo</artifactId>
+	<packaging>war</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<!-- TODO project name  -->
+	<name>quickstart</name>
+	<description></description>
+
+	<!-- TODO
+		<organization>
+		<name>company name</name>
+		<url>company url</url>
+		</organization>
+	-->
+
+	<licenses>
+		<license>
+			<name>The Apache Software License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+	<repository>
+		<id>gate-ontototext</id>
+		<url>http://maven.ontotext.com/archiva/repository/public</url>
+		<snapshots>
+			<!-- set this to true to use snapshot builds of GATE -->
+			<enabled>false</enabled>
+		</snapshots>
+		<releases>
+			<enabled>true</enabled>
+			<checksumPolicy>fail</checksumPolicy>
+		</releases>
+	</repository>
+
+
+	<dependencies>
+		<!--  WICKET DEPENDENCIES -->
+		<!-- https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver -->
+
+		<dependency>
+			<groupId>gate</groupId>
+			<artifactId>gate</artifactId>
+			<version>5.2.1</version>
+			<!-- or 6.0-SNAPSHOT, etc. -->
+		</dependency>
+		<dependency>
+			<groupId>uk.ac.gate</groupId>
+			<artifactId>gate-core</artifactId>
+			<version>8.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.mongodb</groupId>
+			<artifactId>mongo-java-driver</artifactId>
+			<version>3.4.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.wicket</groupId>
+			<artifactId>wicket</artifactId>
+			<version>${wicket.version}</version>
+		</dependency>
+        <!-- https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/weka-stable -->
+        <dependency>
+            <groupId>nz.ac.waikato.cms.weka</groupId>
+            <artifactId>weka-stable</artifactId>
+            <version>3.6.6</version>
+        </dependency>
+
+        <!-- OPTIONAL
+            <dependency>
+            <groupId>org.apache.wicket</groupId>
+            <artifactId>wicket-extensions</artifactId>
+            <version>${wicket.version}</version>
+            </dependency>
+        -->
+
+		<!-- LOGGING DEPENDENCIES - LOG4J -->
+
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<version>1.4.2</version>
+		</dependency>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.14</version>
+		</dependency>
+
+		<!--  JUNIT DEPENDENCY FOR TESTING -->
+		 <dependency>
+				 <groupId>junit</groupId>
+				 <artifactId>junit</artifactId>
+				 <version>3.8.2</version>
+				 <scope>test</scope>
+		 </dependency>
+
+		<!--  JETTY DEPENDENCIES FOR TESTING  -->
+
+		<dependency>
+			<groupId>org.mortbay.jetty</groupId>
+			<artifactId>jetty</artifactId>
+			<version>${jetty.version}</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.mortbay.jetty</groupId>
+			<artifactId>jetty-util</artifactId>
+			<version>${jetty.version}</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.mortbay.jetty</groupId>
+			<artifactId>jetty-management</artifactId>
+			<version>${jetty.version}</version>
+			<scope>provided</scope>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<resources>
+			<resource>
+				<filtering>false</filtering>
+				<directory>src/main/resources</directory>
+			</resource>
+			<resource>
+				<filtering>false</filtering>
+				<directory>src/main/java</directory>
+				<includes>
+					<include>**</include>
+				</includes>
+				<excludes>
+					<exclude>**/*.java</exclude>
+				</excludes>
+			</resource>
+		</resources>
+		<testResources>
+			<testResource>
+				<filtering>false</filtering>
+				<directory>src/test/java</directory>
+				<includes>
+					<include>**</include>
+				</includes>
+				<excludes>
+					<exclude>**/*.java</exclude>
+				</excludes>
+			</testResource>
+		</testResources>
+		<plugins>
+			<plugin>
+				<groupId>org.mortbay.jetty</groupId>
+				<artifactId>maven-jetty-plugin</artifactId>
+				https://gate.svn.sourceforge.net/svnroot/gate/gate/tags/release-5.2.1/.
+			</plugin>
+
+		</plugins>
+	</build>
+
+	<properties>
+		<wicket.version>1.3.2</wicket.version>
+		<jetty.version>6.1.4</jetty.version>
+	</properties>
+
+</project>

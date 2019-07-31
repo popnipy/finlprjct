@@ -1,0 +1,444 @@
+{ 
+    "_id" : ObjectId("592dd8e7b99ab50bf4756c0e"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "The cave temples are quite stunning but compared to most other temples we visited in the Cultural Triangle, Dambulla is overrun with tourists. The street vendors line up all the way from the bottom to the top of the rock persistently trying to sell you..."
+}
+{ 
+    "_id" : ObjectId("592dd8e7b99ab50bf4756c0f"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "It is amazing to think that there were all carved out of the rock, the paint and detail was amazing, our tour guide was very knowledgable about their history."
+}
+{ 
+    "_id" : ObjectId("592dd8e7b99ab50bf4756c10"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "Must visit cave temple and Golden Buddha. Nice view. Lion Rock view much better but no need pay expensive, they charge much for tourist"
+}
+{ 
+    "_id" : ObjectId("592dd8e7b99ab50bf4756c11"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "Not like anything I have seen before, the cave painting is really well done and preserved and almost makes you feel like the ceiling is covered in material. There are around 5 caves, each with Buddha statues and ornate painting. It was all a little..."
+}
+{ 
+    "_id" : ObjectId("592dd8e7b99ab50bf4756c12"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "Don't think it's just one more buddisth templo. I've seem many of them, in India, Nepal, Myanmar, Laos....but this one has something that reveals the refine Lanka painting."
+}
+{ 
+    "_id" : ObjectId("592dd8e7b99ab50bf4756c13"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "Dambulla is driving distance from Colombo, about 4-5 hours. It was our first destination in our Sri-Lanka Visit. From Dambula you can visit several places the Golden temple and caves is a \"MUST\". You can see breathtaking cave wall paintings and statues. Climb is easy,..."
+}
+{ 
+    "_id" : ObjectId("592dd8e7b99ab50bf4756c14"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "This place is beautiful. It's about 300-something steps to get to the top (be careful of the monkeys!). There are 4 main rooms across the temple, each with its own flair based on the ruler of the time. A can't miss."
+}
+{ 
+    "_id" : ObjectId("592dd8e7b99ab50bf4756c15"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "Several caves full of statues of Budha sitting, standing and lying down repeated ad infinitum. Not for me, but I'm sure some people will appreciate it."
+}
+{ 
+    "_id" : ObjectId("592dd8e7b99ab50bf4756c16"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "We can see the Golden statue of Lord Buddha from the main road itself. Its huge and attractive. The temple is spic and span as everywhere in Sri Lanka.. Worth seeing"
+}
+{ 
+    "_id" : ObjectId("592dd8e8b99ab50bf4756c17"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "After climbing for half an hour you reach to a sort of resting point. The lion feet is there and kept in very good condition."
+}
+{ 
+    "_id" : ObjectId("592dd8e8b99ab50bf4756c18"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "Decent place to visit. If you have enough time in Sri Lanka then visit this place. I would not say it as a must visit. If you are into history, architecture n the types then it would interest you. If you have enough time after visiting beaches and sanctuaries in Sri Lanka then visit Sigiriya, Dambulla, Anuradhapura as they are..."
+}
+{ 
+    "_id" : ObjectId("592dd8e8b99ab50bf4756c19"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "The color of the rock amazed me. Hiking is not that tough only 343 feet. Take rest and carry water that's it."
+}
+{ 
+    "_id" : ObjectId("592dd8e8b99ab50bf4756c1a"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "Actual name SIGIRIYA (Si means lion Giriya means rock) lion Rock, the king after killing his father built his palace on the top of this rock in 5th century with full water system, gardens to avoid being killed by his brother, he had 500 wife's, to reach up we had to climb 1202 steps, it is like the 8th wonders..."
+}
+{ 
+    "_id" : ObjectId("592dd8e8b99ab50bf4756c1b"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "This is well worth a visit. Originally inhabited by monks and then built in to a fortress in the 5th century. The views form the top are extensive. The climb is demanding if you are not fit. Only the foundations of the fort remain at the top. Make sure that you take plenty of water."
+}
+{ 
+    "_id" : ObjectId("592dd8e8b99ab50bf4756c1c"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "Made the trip to see the Lion Rock and well worth it. There are various climbs to take you to the top, each getting harder but the views are spectasculsr."
+}
+{ 
+    "_id" : ObjectId("592dd8e8b99ab50bf4756c1d"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "The trademark of Sri Lanka... and most famous sight. certainly a must visit location in SRI LANKA. but if you wanna have alternate view of the rock.. do hike pidurangala rock at the other side for a complete perspective of the lion rock."
+}
+{ 
+    "_id" : ObjectId("592dd8e8b99ab50bf4756c1e"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "Sigiriya is certainly one of the “crown jewels” of Sri Lanka! No matter what you have read about Sigiriya it will not prepare you for the stunning beauty of the ancient palace or the surrounding areas. As with all the national parks in Sri Lanka for foreigners, this one is also expensive, $30. In US currency. However, you’ve made the..."
+}
+{ 
+    "_id" : ObjectId("592dd8e8b99ab50bf4756c1f"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "We went there on a sunny day and wasn't dissapointed. We hired a local guide, which gave alot of information during the ascend to the top. And the view is astonishing."
+}
+{ 
+    "_id" : ObjectId("592dd8e8b99ab50bf4756c20"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "At $30 per person we hesitated to visit the Lion Rock. We are not sorry that we did it anyway! Off course you can see it and the line of people making their way up from the next rock over, but making the ascent, seeing the fresco's and wandering around the old palace on top off the rock make it..."
+}
+{ 
+    "_id" : ObjectId("592dd8e9b99ab50bf4756c22"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "I've seen a few temples and sacred places, but I did not like this one at all. I don't understand all the positive reviews... Ok, the spot above the ocean is nice and the path to the temple is also very peaceful with those chunky..."
+}
+{ 
+    "_id" : ObjectId("592dd8e9b99ab50bf4756c23"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "The location of the temple makes it all the more beautiful. We visited the temple when a local ritual was on and the sound of the drums was mesmerizing."
+}
+{ 
+    "_id" : ObjectId("592dd8e9b99ab50bf4756c24"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "A very religious place where people from all religions visit when in Trincomalee.and a very religious place and as a Very long history.it's Location is fantastic"
+}
+{ 
+    "_id" : ObjectId("592dd8e9b99ab50bf4756c25"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "This is a place with a Hindu temple. You can go inside the temple and see also. As this is situated on a cliff right near the sea, some fascinating views can be enjoyed from here. There is a bit of climbing to do to..."
+}
+{ 
+    "_id" : ObjectId("592dd8e9b99ab50bf4756c26"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "This is an amazing Temple with many legendary stories about its history and rituals carried out by its religious pilgrims who visit. It is recommended that you have a tour guide who is of the same faith or well versed in its history."
+}
+{ 
+    "_id" : ObjectId("592dd8e9b99ab50bf4756c27"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "Visit this temple when a mass is going on! It´s an expierience you will not forget! Really a Must-See in Sri Lanka!"
+}
+{ 
+    "_id" : ObjectId("592dd8e9b99ab50bf4756c28"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "Located inside the old fort and restoration is amazing. Try go when they are doing the 'Pooja' it is a soul touching experience. Recommended to walk from fort door as the walk is quite nice ( if you like walking ). View from the Kovil..."
+}
+{ 
+    "_id" : ObjectId("592dd8e9b99ab50bf4756c29"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "Popular among Hindu People and located at a beautiful location in Trincomalee.. The famous Ravana's cut is located nearby and a Must See spot if you visit Trinco"
+}
+{ 
+    "_id" : ObjectId("592dd8e9b99ab50bf4756c2a"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "This is one of the beautiful place I have been.... The view was awesome and the total environment was so good with lots of deers.... Pleasant place for devotees.... Huge Shiva statue makes us wow......"
+}
+{ 
+    "_id" : ObjectId("592dd8e9b99ab50bf4756c2b"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "I was in August of 2014 looking the restoration and I come back last month to check it. The works of restoration was amazing. If you will go, I recommend read first about the history to enjoy better this Temple. I will come back again..."
+}
+{ 
+    "_id" : ObjectId("592dd8ebb99ab50bf4756c2c"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "This place is an ancient place and a extremely historically important place for sri lankans as well as for buddhism followers around the world. This is believed to be the place where venerable mahinda thero arrived with lord buddhas teachings. The king who ruled the country then started following lord buddhas teachings. This is a place you can visit and..."
+}
+{ 
+    "_id" : ObjectId("592dd8ebb99ab50bf4756c2d"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "This is Sri Lanka's one of leading sacred places .... if you are willing to visit the sight recommend to visit in early morning or morning hours or else in bit late evening as the rock is not covered by any single tree it will literally burn you out... please wear nice n neatly as it's a religious place"
+}
+{ 
+    "_id" : ObjectId("592dd8ebb99ab50bf4756c2e"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "We left early from Anuradhapura on our way to Sirigya with our driver and had this place largely to ourselves, and, though the top of the hill was covered in mist at first, this added to the atmosphere. We hired a guide at the start of the climb – a must do – and we really enjoyed our visit to..."
+}
+{ 
+    "_id" : ObjectId("592dd8ebb99ab50bf4756c2f"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "15km/ 20mins drive from Anuradhapura City. Takes about 1-2 hours to climb to top. But needs at least one day to go through the entire archaeological structure. According to the history, this is the place where the Buddhism was brought to Sri Lanka. A sacred place for Buddhists. The important places to visit are, 1. Temple 2. Aaradhana Gala (Summit..."
+}
+{ 
+    "_id" : ObjectId("592dd8ebb99ab50bf4756c30"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "We didn't climb from the lowest level but mid-level. The climb was very nice and easy. The view from the rock of the Dagoba was super."
+}
+{ 
+    "_id" : ObjectId("592dd8ebb99ab50bf4756c31"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "Its believed to be the place where Arhat Mahinda met the then King of the country Devanampiyatissa and preached Buddhas doctrine to him. the king later converted to Buddhism. its believed the present Buddhist civilization of Sri Lanka formally initiated with this historic event. The place is now consist of ruins of a monastery, and caves believed to be the..."
+}
+{ 
+    "_id" : ObjectId("592dd8ebb99ab50bf4756c32"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "This site has 3 main areas, all at the top of hills, all of which you go up bare foot. The rock was definitely worth the climb, as the view was spectacular. We went around the stupa (white hemisphere) and finally went up to the big Buddha statue for sunset. The views are amazing, the site is stunning and it..."
+}
+{ 
+    "_id" : ObjectId("592dd8ebb99ab50bf4756c33"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "This is well worth the climb. The ruins were really interesting and the views at the top were speculative. Try not to go in the middle of the day like us as it's very hot. Also you cannot wear shoes on the walk and the stone steps get extremely hot!"
+}
+{ 
+    "_id" : ObjectId("592dd8ebb99ab50bf4756c34"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "Better to visit this place in the evening due to hot whether. wear trousers because you are about to climb a giant rock. Lots of monkeys in surrounding area.take only the water bottles and cameras with you. monkeys might steal. nice view in the evening. Sacred place. good example of rich culture."
+}
+{ 
+    "_id" : ObjectId("592dd8ebb99ab50bf4756c35"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "A bit of a climb, something I let my husband do while I sat this one out, being a bit dubious when sharing a set of steep, narrow stone cut stairs and one handrail with people moving in the opposite direction. My husband tells me the views from the top were great, but I enjoyed the views from lower down..."
+}
+{ 
+    "_id" : ObjectId("592dd8ecb99ab50bf4756c36"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "The architecture was amazing in a surreal setting. Take your time and plan to spend a couple of hours. You really get the Buddhist pride, tradition with amazing history."
+}
+{ 
+    "_id" : ObjectId("592dd8ecb99ab50bf4756c37"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "Fabulous tour of the temple.. We spent a few hours here and it was a great . We hired a guide which was great as he gave us so much information about the temple. Fabulous would definitely recommend this tour."
+}
+{ 
+    "_id" : ObjectId("592dd8ecb99ab50bf4756c38"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "The sheer amount of believers make it impossible to see the tooth within a normal tourist time range and patience. Instead enjoy the celebrations of the believers, the loud music, and the decorative flowers. Walk around the court yards to see the more tranquil areas and smaller temples."
+}
+{ 
+    "_id" : ObjectId("592dd8ecb99ab50bf4756c39"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "We visited Zahntempel at Nova Payam time at February. I really can not describe our feelings, it was not a touristic visit but another level of experience for us. Take your shoes off, cover your knees, shoulders and arms be witness of worship."
+}
+{ 
+    "_id" : ObjectId("592dd8ecb99ab50bf4756c3a"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "A buddhist temple where buddha's tooth lies until the August Pageant. A must visit, however, bear in mind that one must be conservatively dressed in white to enter the premises. Ideally, an offering of flowers would be appreciated."
+}
+{ 
+    "_id" : ObjectId("592dd8ecb99ab50bf4756c3b"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "We had to pay 30 usd to enter to this place only to walk and dont see absolutely nothing. We couldn't believe we payed and we didn't even see the tooth!!"
+}
+{ 
+    "_id" : ObjectId("592dd8ecb99ab50bf4756c3c"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "It was lovely to see the temple of the tooth relics and hear the story about it all. We were lucky to have a guide with us. Lovely grounds too. Make sure you cover your knees and shoulders. I wish I had worn white clothes that day like the locals."
+}
+{ 
+    "_id" : ObjectId("592dd8ecb99ab50bf4756c3d"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "We visited the Temple of the Tooth while staying in Kandy. It was interesting to learn the history behind the temple, but it was very busy and we ended up queuing and getting pushed around in the baking heat. I'm glad we visited but it was expensive for what it was (£15 for both of us) and probably wouldn't go..."
+}
+{ 
+    "_id" : ObjectId("592dd8ecb99ab50bf4756c3e"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "Well worth a visit but suggest you need a local guide to explain Buddhism and the importance of the Temple. There is a lot to see and understand."
+}
+{ 
+    "_id" : ObjectId("592dd8ecb99ab50bf4756c3f"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "Although the temple itself is worth touring but at many spots it seemed like a chaos. No one to guide the tourists. Although there were signs of \"No photographs to be taken\" I saw most of the visitors taking pics and videos. Of course all the temples are literally the same but this being very large and overcrowded, it needs..."
+}
+{ 
+    "_id" : ObjectId("592dd8ffb99ab50bf4756cd5"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "Forget about the Taj Mahal this is Indias best attraction. The whole area surrounding the golden temple is very grand and really well kept. Entry to the temple as well as the shoe storage is free. You need to cover your head to gain entry but everyone is most welcoming. All I can say about this place is wow. Hundreds..."
+}
+{ 
+    "_id" : ObjectId("592dd8ffb99ab50bf4756cd6"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "The cave temples are quite stunning but compared to most other temples we visited in the Cultural Triangle, Dambulla is overrun with tourists. The street vendors line up all the way from the bottom to the top of the rock persistently trying to sell you their crap and the staff controlling the admission is absolutely rude."
+}
+{ 
+    "_id" : ObjectId("592dd8ffb99ab50bf4756cd9"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "Not like anything I have seen before, the cave painting is really well done and preserved and almost makes you feel like the ceiling is covered in material. There are around 5 caves, each with Buddha statues and ornate painting. It was all a little more gaudy than I expected and the giant golden buddha at the foot of the..."
+}
+{ 
+    "_id" : ObjectId("592dd8ffb99ab50bf4756cdb"), 
+    "Type" : "Historical", 
+    "Name" : "The Golden Temple", 
+    "Review" : "Dambulla is driving distance from Colombo, about 4-5 hours. It was our first destination in our Sri-Lanka Visit. From Dambula you can visit several places the Golden temple and caves is a \"MUST\". You can see breathtaking cave wall paintings and statues. Climb is easy, just few stairs, and there is not much walking. Take socks you can use when..."
+}
+{ 
+    "_id" : ObjectId("592dd901b99ab50bf4756ce9"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "I've seen a few temples and sacred places, but I did not like this one at all. I don't understand all the positive reviews... Ok, the spot above the ocean is nice and the path to the temple is also very peaceful with those chunky trees and the deer around... But the temple itself was very dirty and not really..."
+}
+{ 
+    "_id" : ObjectId("592dd901b99ab50bf4756cec"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "This is a place with a Hindu temple. You can go inside the temple and see also. As this is situated on a cliff right near the sea, some fascinating views can be enjoyed from here. There is a bit of climbing to do to reach here. On that way, near the temple, there is wash room facilities available. You..."
+}
+{ 
+    "_id" : ObjectId("592dd901b99ab50bf4756cef"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "Located inside the old fort and restoration is amazing. Try go when they are doing the 'Pooja' it is a soul touching experience. Recommended to walk from fort door as the walk is quite nice ( if you like walking ). View from the Kovil is breathtaking. Words cant say how beautiful it is."
+}
+{ 
+    "_id" : ObjectId("592dd901b99ab50bf4756cf2"), 
+    "Type" : "Historical", 
+    "Name" : "Koneswaram Temple", 
+    "Review" : "I was in August of 2014 looking the restoration and I come back last month to check it. The works of restoration was amazing. If you will go, I recommend read first about the history to enjoy better this Temple. I will come back again sure! Namaste!"
+}
+{ 
+    "_id" : ObjectId("592dd903b99ab50bf4756cf3"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "This is Sri Lanka's one of leading sacred places .... if you are willing to visit the sight recommend to visit in early morning or morning hours or else in bit late evening as the rock is not covered by any single tree it will..."
+}
+{ 
+    "_id" : ObjectId("592dd903b99ab50bf4756cf4"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "We left early from Anuradhapura on our way to Sirigya with our driver and had this place largely to ourselves, and, though the top of the hill was covered in mist at first, this added to the atmosphere. We hired a guide at the start..."
+}
+{ 
+    "_id" : ObjectId("592dd903b99ab50bf4756cf5"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "15km/ 20mins drive from Anuradhapura City. Takes about 1-2 hours to climb to top. But needs at least one day to go through the entire archaeological structure. According to the history, this is the place where the Buddhism was brought to Sri Lanka. A sacred..."
+}
+{ 
+    "_id" : ObjectId("592dd903b99ab50bf4756cf7"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "Its believed to be the place where Arhat Mahinda met the then King of the country Devanampiyatissa and preached Buddhas doctrine to him. the king later converted to Buddhism. its believed the present Buddhist civilization of Sri Lanka formally initiated with this historic event. The..."
+}
+{ 
+    "_id" : ObjectId("592dd903b99ab50bf4756cf8"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "This site has 3 main areas, all at the top of hills, all of which you go up bare foot. The rock was definitely worth the climb, as the view was spectacular. We went around the stupa (white hemisphere) and finally went up to the..."
+}
+{ 
+    "_id" : ObjectId("592dd903b99ab50bf4756cf9"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "This is well worth the climb. The ruins were really interesting and the views at the top were speculative. Try not to go in the middle of the day like us as it's very hot. Also you cannot wear shoes on the walk and the..."
+}
+{ 
+    "_id" : ObjectId("592dd903b99ab50bf4756cfa"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "Better to visit this place in the evening due to hot whether. wear trousers because you are about to climb a giant rock. Lots of monkeys in surrounding area.take only the water bottles and cameras with you. monkeys might steal. nice view in the evening...."
+}
+{ 
+    "_id" : ObjectId("592dd903b99ab50bf4756cfb"), 
+    "Type" : "Historical", 
+    "Name" : "Mihintale", 
+    "Review" : "A bit of a climb, something I let my husband do while I sat this one out, being a bit dubious when sharing a set of steep, narrow stone cut stairs and one handrail with people moving in the opposite direction. My husband tells me..."
+}
+{ 
+    "_id" : ObjectId("592dd904b99ab50bf4756cfd"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "The sheer amount of believers make it impossible to see the tooth within a normal tourist time range and patience. Instead enjoy the celebrations of the believers, the loud music, and the decorative flowers. Walk around the court yards to see the more tranquil areas..."
+}
+{ 
+    "_id" : ObjectId("592dd904b99ab50bf4756d01"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "It was lovely to see the temple of the tooth relics and hear the story about it all. We were lucky to have a guide with us. Lovely grounds too. Make sure you cover your knees and shoulders. I wish I had worn white clothes..."
+}
+{ 
+    "_id" : ObjectId("592dd904b99ab50bf4756d02"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "We visited the Temple of the Tooth while staying in Kandy. It was interesting to learn the history behind the temple, but it was very busy and we ended up queuing and getting pushed around in the baking heat. I'm glad we visited but it..."
+}
+{ 
+    "_id" : ObjectId("592dd904b99ab50bf4756d04"), 
+    "Type" : "Historical", 
+    "Name" : "Temple of the Tooth Sri_Dalada Maligawa", 
+    "Review" : "Although the temple itself is worth touring but at many spots it seemed like a chaos. No one to guide the tourists. Although there were signs of \"No photographs to be taken\" I saw most of the visitors taking pics and videos. Of course all..."
+}
+{ 
+    "_id" : ObjectId("592e0f0410c2711db8f76e55"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "Decent place to visit. If you have enough time in Sri Lanka then visit this place. I would not say it as a must visit. If you are into history, architecture n the types then it would interest you. If you have enough time after..."
+}
+{ 
+    "_id" : ObjectId("592e0f0410c2711db8f76e57"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "Actual name SIGIRIYA (Si means lion Giriya means rock) lion Rock, the king after killing his father built his palace on the top of this rock in 5th century with full water system, gardens to avoid being killed by his brother, he had 500 wife's,..."
+}
+{ 
+    "_id" : ObjectId("592e0f0410c2711db8f76e58"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "This is well worth a visit. Originally inhabited by monks and then built in to a fortress in the 5th century. The views form the top are extensive. The climb is demanding if you are not fit. Only the foundations of the fort remain at..."
+}
+{ 
+    "_id" : ObjectId("592e0f0410c2711db8f76e5b"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "Sigiriya is certainly one of the “crown jewels” of Sri Lanka! No matter what you have read about Sigiriya it will not prepare you for the stunning beauty of the ancient palace or the surrounding areas. As with all the national parks in Sri Lanka..."
+}
+{ 
+    "_id" : ObjectId("592e0f0410c2711db8f76e5d"), 
+    "Type" : "Historical", 
+    "Name" : "Sigiriya Lion Rock", 
+    "Review" : "At $30 per person we hesitated to visit the Lion Rock. We are not sorry that we did it anyway! Off course you can see it and the line of people making their way up from the next rock over, but making the ascent, seeing..."
+}

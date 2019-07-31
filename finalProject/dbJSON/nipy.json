@@ -1,0 +1,36 @@
+{ 
+    "_id" : ObjectId("59033755804ecf1db00c5c75"), 
+    "key" : "value"
+}
+{ 
+    "_id" : ObjectId("59034a24804ecf18f4b08c7c"), 
+    "key" : "value"
+}
+{ 
+    "_id" : ObjectId("59034a24804ecf18f4b08c7d"), 
+    "title" : "MongoDB", 
+    "description" : "database", 
+    "likes" : NumberInt(100), 
+    "url" : "http://www.tutorialspoint.com/mongodb/", 
+    "by" : "tutorials point"
+}
+{ 
+    "_id" : ObjectId("592f117c10c27122747377ca"), 
+    "key" : "value"
+}
+{ 
+    "_id" : ObjectId("592fdbe7d0250f074813e4a7"), 
+    "key" : "value"
+}
+{ 
+    "_id" : ObjectId("592fdc2cd0250f16cc1fedde"), 
+    "key" : "value"
+}
+{ 
+    "_id" : ObjectId("592fdc51d0250f0568e74ab9"), 
+    "key" : "value"
+}
+{ 
+    "_id" : ObjectId("5937bb3ea964430e34441b4f"), 
+    "key" : "value"
+}

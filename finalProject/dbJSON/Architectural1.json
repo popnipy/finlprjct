@@ -1,0 +1,530 @@
+{ 
+    "_id" : ObjectId("59392fda53e5cf1590658f2d"), 
+    "Type" : "Beach", 
+    "Name" : "Ruwanwelisaya Dagoba", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392fdb53e5cf1590658f2f"), 
+    "Type" : "Beach", 
+    "Name" : "Ruwanwelisaya Dagoba", 
+    "Phrases" : {
+        "S&L" : "Nice place to see", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392fde53e5cf1590658f32"), 
+    "Type" : "Beach", 
+    "Name" : "Ruwanwelisaya Dagoba", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "great to see"
+    }
+}
+{ 
+    "_id" : ObjectId("59392fdf53e5cf1590658f34"), 
+    "Type" : "Beach", 
+    "Name" : "Ruwanwelisaya Dagoba", 
+    "Phrases" : {
+        "S&L" : "just before vesak", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392fe153e5cf1590658f36"), 
+    "Type" : "Beach", 
+    "Name" : "Ruwanwelisaya Dagoba", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392fe553e5cf1590658f3a"), 
+    "Type" : "Beach", 
+    "Name" : "Ruwanwelisaya Dagoba", 
+    "Phrases" : {
+        "S&L" : "a quick walk", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392fe653e5cf1590658f3c"), 
+    "Type" : "Beach", 
+    "Name" : "Ruwanwelisaya Dagoba", 
+    "Phrases" : {
+        "S&L" : "best places to visit", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392fe853e5cf1590658f3e"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392fea53e5cf1590658f41"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392fec53e5cf1590658f43"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392fee53e5cf1590658f45"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392fef53e5cf1590658f47"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "S&L" : "ancient ruins of", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392ff053e5cf1590658f49"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392ff253e5cf1590658f4b"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392ff353e5cf1590658f4d"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392ff553e5cf1590658f4f"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "see some wild life"
+    }
+}
+{ 
+    "_id" : ObjectId("59392ff653e5cf1590658f51"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "S&L" : "critical to go"
+    }
+}
+{ 
+    "_id" : ObjectId("59392ff753e5cf1590658f53"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392ff953e5cf1590658f55"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392ffa53e5cf1590658f57"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392ffc53e5cf1590658f59"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "S&L" : "ancient ruins of", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392ffd53e5cf1590658f5b"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59392fff53e5cf1590658f5d"), 
+    "Type" : "Beach", 
+    "Name" : "Polonnaruwa", 
+    "Phrases" : {
+        "S&L" : "historic places to visit", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939300053e5cf1590658f5f"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Fort", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939300253e5cf1590658f61"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Fort", 
+    "Phrases" : {
+        "S&L" : "lots of good quality", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939300353e5cf1590658f63"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Fort", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939300453e5cf1590658f65"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Fort", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939300653e5cf1590658f67"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Fort", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939300853e5cf1590658f69"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Fort", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "nice view of"
+    }
+}
+{ 
+    "_id" : ObjectId("5939300953e5cf1590658f6b"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Fort", 
+    "Phrases" : {
+        "S&L" : "nice small streets", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939300c53e5cf1590658f6e"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Fort", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939300e53e5cf1590658f70"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Fort", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939300f53e5cf1590658f72"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Fort", 
+    "Phrases" : {
+        "S&L" : "lots of good quality", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939301453e5cf1590658f75"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Fort", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939301553e5cf1590658f77"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "S&L" : "absolutely be visited", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939301753e5cf1590658f79"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "perfect example of"
+    }
+}
+{ 
+    "_id" : ObjectId("5939301a53e5cf1590658f7c"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "ancient Sri Lanka"
+    }
+}
+{ 
+    "_id" : ObjectId("5939301b53e5cf1590658f7e"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939301f53e5cf1590658f80"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939302053e5cf1590658f82"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939302253e5cf1590658f84"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939302353e5cf1590658f86"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939302553e5cf1590658f88"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939302653e5cf1590658f8a"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939302a53e5cf1590658f8c"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939302c53e5cf1590658f8e"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "S&L" : "see some presevation", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939302d53e5cf1590658f90"), 
+    "Type" : "Beach", 
+    "Name" : "Gal Vihara", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939302f53e5cf1590658f92"), 
+    "Type" : "Beach", 
+    "Name" : "Bahiravokanda Vihara Buddha Statue", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "walk down"
+    }
+}
+{ 
+    "_id" : ObjectId("5939303453e5cf1590658f95"), 
+    "Type" : "Beach", 
+    "Name" : "Bahiravokanda Vihara Buddha Statue", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "statue is amazing"
+    }
+}
+{ 
+    "_id" : ObjectId("5939303653e5cf1590658f97"), 
+    "Type" : "Beach", 
+    "Name" : "Bahiravokanda Vihara Buddha Statue", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "great views of"
+    }
+}
+{ 
+    "_id" : ObjectId("5939303753e5cf1590658f99"), 
+    "Type" : "Beach", 
+    "Name" : "Bahiravokanda Vihara Buddha Statue", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939303b53e5cf1590658f9b"), 
+    "Type" : "Beach", 
+    "Name" : "Bahiravokanda Vihara Buddha Statue", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "bad road and"
+    }
+}
+{ 
+    "_id" : ObjectId("5939303d53e5cf1590658f9d"), 
+    "Type" : "Beach", 
+    "Name" : "Bahiravokanda Vihara Buddha Statue", 
+    "Phrases" : {
+        "S&L" : "nice view from", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939303e53e5cf1590658f9f"), 
+    "Type" : "Beach", 
+    "Name" : "Bahiravokanda Vihara Buddha Statue", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939304453e5cf1590658fa2"), 
+    "Type" : "Beach", 
+    "Name" : "Bahiravokanda Vihara Buddha Statue", 
+    "Phrases" : {
+        "S&L" : "Well worth a", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939304753e5cf1590658fa5"), 
+    "Type" : "Beach", 
+    "Name" : "Bahiravokanda Vihara Buddha Statue", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "great views of"
+    }
+}
+{ 
+    "_id" : ObjectId("5939304b53e5cf1590658fa7"), 
+    "Type" : "Beach", 
+    "Name" : "Bahiravokanda Vihara Buddha Statue", 
+    "Phrases" : {
+        "SA" : "", 
+        "S&L" : "bad road and"
+    }
+}
+{ 
+    "_id" : ObjectId("5939304c53e5cf1590658fa9"), 
+    "Type" : "Beach", 
+    "Name" : "Bahiravokanda Vihara Buddha Statue", 
+    "Phrases" : {
+        "S&L" : "nice view from", 
+        "SA" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5939304e53e5cf1590658fab"), 
+    "Type" : "Beach", 
+    "Name" : "Bahiravokanda Vihara Buddha Statue", 
+    "Phrases" : {
+        "S&L" : "Well worth a", 
+        "SA" : ""
+    }
+}

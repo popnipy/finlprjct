@@ -1,0 +1,46 @@
+{ 
+    "_id" : ObjectId("590daaa55cb00f12688ee473"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "beach has lovely" : "scenic", 
+        "nice clear water" : "scenic", 
+        "good for family" : "scenic"
+    }
+}
+{ 
+    "_id" : ObjectId("590dacee5cb00f1f706b5ca1"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "beach has lovely" : "scenic", 
+        "nice clear water" : "scenic", 
+        "good for family" : "scenic"
+    }
+}
+{ 
+    "_id" : ObjectId("590dad245cb00f1df03b8a68"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Perfect for surfing" : "activity"
+    }
+}
+{ 
+    "_id" : ObjectId("590dad545cb00f0d10a21bc5"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Lovely clean beach set" : "scenic", 
+        "swim or paddle" : "activity"
+    }
+}
+{ 
+    "_id" : ObjectId("590e29525cb00f17301ee73b"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Lovely clean beach set" : "scenic", 
+        "swim or paddle" : "activity"
+    }
+}

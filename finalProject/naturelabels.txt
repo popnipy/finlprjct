@@ -1,0 +1,483 @@
+
+'climb at half',activity
+'not too cold',scenic
+'healthy and inspirated',scenic
+'start of new',scenic
+'h walking',activity
+'wait a long',activity
+'see the sunrise',scenic
+'Lots of Buddhist',scenic
+'it is really cold',scenic
+'Many shops selling',scenic
+'warm bed of',scenic
+'climb a bit',activity
+'top before sunrise',scenic
+'not so bad',scenic
+'it is quite enjoyable',scenic
+'the top is great',scenic
+'many tourists with witch',scenic
+'those small mountain',scenic
+'Lanka on several',scenic
+'occasions climbing',activity
+' believe everything',scenic
+'trained the last',scenic
+'at very slow',scenic
+'tourists climb',scenic
+'see the beautiful sunrise',scenic
+'it was really cold',scenic
+'great experience for',scenic
+'lots for see',scenic
+'pain in climbing',activity
+'path is definitely worth',scenic
+'What a sight to see',scenic
+'rising from such',scenic
+'was a very cold',scenic
+'night climb',activity
+'climb not',activity
+'really knowing fully',scenic
+'not have a torch',scenic
+'not have a guide',scenic
+'an important pilgrim',scenic
+'Peak is possible',scenic
+'The most popular',scenic
+'really nice to see',scenic
+'the first lights',scenic
+'main aim to write',scenic
+'more and more',scenic
+'It is simply amazing',scenic
+'unusual and big',scenic
+'reach the top',scenic
+'see the beautiful sunrise',scenic
+'Nature is very beautiful',scenic
+'always climb',activity
+'lot of water',scenic
+'most common amount',scenic
+'Climbing Adam',activity
+'It can be too wet',scenic
+'not too rough',scenic
+'Just bring good',scenic
+'waterproof hiking',activity
+'walking stick',activity
+'challenging but worth',scenic
+'mountain and forest here',scenic
+'place is Adam',scenic
+'read a lot',scenic
+'local advices about climbing',scenic
+'we were slightly anxious',scenic
+'negative reviews of rain',scenic
+'top spot in high',scenic
+'pace with many',scenic
+'pretty good time',scenic
+'anything a little early',scenic
+'the climb is amazing',scenic
+'such a nice',scenic
+'so take water',scenic
+'it was really hard',scenic
+'climb or not',activity
+'climb Adam',scenic
+'peak is like',scenic
+'buy some fine',scenic
+'Buddha reportedly being',scenic
+'general level of fitness',scenic
+'climb up steep',scenic
+'and sometimes high',scenic
+'assent was relatively quiet',scenic
+'climb up',activity
+'climb down',activity
+'do in lonely',scenic
+'first climb',activity
+'Buddhist holiday in',scenic
+'top waiting for sunrise',scenic
+'legs and healthy',activity
+'arrived the top',scenic
+'reach the temple',scenic
+'lots of places',scenic
+'It would be very difficult',scenic
+'different routes once',scenic
+'Amazing view and hiking',scenic
+'have a local',scenic
+'Grab a local',scenic
+'get walking',activity
+'including the rock',scenic
+'It was so lovely',scenic
+'nice strenuous walk',activity
+'climbing the biggest thing',scenic
+'and much easier',scenic
+'beautiful flower selling',scenic
+'walk again',activity
+'back millions of',scenic
+'rock is everything',scenic
+'pass a lot',scenic
+'the top is superb',scenic
+'easiest way to get',scenic
+'the directions of lonely',scenic
+'much more complicated',scenic
+'Best views ever',scenic
+'far FAR better',scenic
+'Peak and definitely worth',scenic
+'lots of water',scenic
+'beautiful sunny morning',scenic
+'the top is stunning',scenic
+'that very helpful',scenic
+'was quite easy',scenic
+'you can go wrong',scenic
+'Fantastic couple of',scenic
+'hours hiking',activity
+'The start is nice',scenic
+'past the first',scenic
+'Very very steep',scenic
+'actually quite scary',scenic
+'drop is quite big',scenic
+'main things to do',scenic
+'climb Ella',activity
+'great little map',scenic
+'more and more',scenic
+'people walk',activity
+'of remarkable place',scenic
+'Really nice view',scenic
+'natural fresh air',scenic
+'top of rock',scenic
+'climb this as',scenic
+'a lot of con',scenic
+'first bit once',scenic
+'is the only confusing',scenic
+'are generally other',scenic
+'ask or walk',scenic
+'It is very true',scenic
+'partner was insistent',scenic
+'challenging hikes',activity
+'beautiful viewpoint above Ella',scenic
+'good directions as',scenic
+'Recommend the first',scenic
+'main path leading',scenic
+'Rock was nice',scenic
+'the climate is milder',scenic
+'it can get very hot',scenic
+'meet the incredible',scenic
+'sunrise view on',scenic
+'the climb was difficult',activity
+'camping on top',scenic
+'place to drink',scenic
+'stuff are very expensive',scenic
+' totally sure',scenic
+'trek is really beautiful',scenic
+'great views across',scenic
+'better than little',scenic
+'limited time just',scenic
+'Not too difficult',scenic
+'and a really great',scenic
+'so let pictures',scenic
+' believe the beauty',scenic
+'see the sunrise',scenic
+'top early morning',scenic
+'of best hiking',scenic
+'walk nearly',scenic
+'then start the critical',scenic
+'visit and hiking',scenic
+'Too bad dry weather',scenic
+'the view was great',scenic
+'sit and see',scenic
+'climb was bit',activity
+'walk there',scenic
+'early riser or tired',scenic
+'recommend climbing',activity
+'vendor selling basic',scenic
+'rock is the highest',scenic
+'a fabulous view',scenic
+'nice way on',scenic
+'very nice view',scenic
+'Exhausting but really worth',scenic
+'afternoon walk',activity
+'are beautiful birds',scenic
+'throughly enjoyed everything',scenic
+'lake is so beautiful',scenic
+'huge lake surrounded',scenic
+'partially completed wall',scenic
+'Lovely walk',activity
+'best done before traffic',scenic
+'also prefer the morning',scenic
+'tooth is more quiet',scenic
+'watch the sunset',scenic
+'Beautiful pink sky',scenic
+'nice lake with lizards',scenic
+'area and hard',scenic
+'so walking this lake',scenic
+'sellers were rude',scenic
+'they were just rude',scenic
+'touring and walking',activity
+'experiencing the best',scenic
+'brightly coloured cakes',scenic
+'local bakery and checked',scenic
+'a lovely place',scenic
+'The path is shady',scenic
+'have a nice walk',activity
+'is cooler walk',activity
+'a good place',scenic
+'of Tooth is nearby',scenic
+'Fantastic views going',scenic
+'back again next',scenic
+'had the most amazing',scenic
+'scenery and little',scenic
+'main bazar and surrounded',scenic
+'not have time',scenic
+'walk here',activity
+'Good walking tour',activity
+'noises are very high',scenic
+'a lovely walk',activity
+'nice views at different areas',scenic
+'It is very peaceful',scenic
+'a nice walk',activity
+'foot long swimming',activity
+'constant requests to get',scenic
+'good impression of',scenic
+'had a very nice',scenic
+'time walking',activity
+'The nature is beautiful',scenic
+'see a lot',scenic
+'Walked past',activity
+'a nice walk',activity
+'a lovely walk',activity
+'some lovely sights',scenic
+'walk around',activity
+'lots of birds',scenic
+'lizards to see',scenic
+'get some amazing',scenic
+'see the big buddha',scenic
+'see lots of',scenic
+'Lake is next',scenic
+'attractive point of interest',scenic
+'nicely paved with places',scenic
+'best to do',scenic
+'walk earlier',activity
+' swim',activity
+'paddle boat',scenic
+'dark green color',scenic
+'fish swimming',activity
+'Best time to visit',scenic
+'Nice place to take',scenic
+'One can see few',scenic
+'also boating facility',activity
+'Love this place',scenic
+'Good size of',scenic
+'trail for walking',scenic
+'invest a little',scenic
+'worth a special',scenic
+'The amount of heavy',scenic
+'pollution is overwhelming',scenic
+'beautiful amazing green',scenic
+'an awesome sight',scenic
+'do a walk',activity
+'even drive around Kandy',scenic
+'lake is peaceful',scenic
+'a nice place',scenic
+'also walk',scenic
+'The Lake is nice',scenic
+'Excellent for jogging',scenic
+'expensive properties',scenic
+'giving an initial',scenic
+'spectacular but quaint',scenic
+'Good to get',scenic
+'mutton or fresh',scenic
+'the lake a few',scenic
+'a nice walk',activity
+'beautiful focal point',scenic
+'clogged with smelly',scenic
+'amazingly maintained lake',scenic
+'the view of royal',scenic
+'buddha tooth relic',scenic
+'lake with small',scenic
+'turtles and many',scenic
+'see the white Buddha',scenic
+'watch cultural dance',scenic
+'of food from expensive',scenic
+'good cloudy day',scenic
+'good change from',scenic
+'people selling little',scenic
+'Lots to see',scenic
+'Many interesting things going',scenic
+'Temple was amazing',scenic
+'The lake has amazing',scenic
+'Great spot for',scenic
+'a beautiful place',scenic
+'see big animals',scenic
+'lot of birds',scenic
+'landscape is just fantastic',scenic
+'park is simply huge',scenic
+'just so good',scenic
+'downside is such',scenic
+'steep price for non-',scenic
+'loop walk',scenic
+' see any wildlife',scenic
+'End had more spectacular',scenic
+'tricky if unstable',scenic
+' use the foreigner',scenic
+'Walk is great',activity
+'the views were great',scenic
+'walk in fresh air',activity
+'trip including many',scenic
+'interesting changes in scenery',scenic
+'some nice waterfalls',scenic
+'beautiful day trip',scenic
+'surrounded by outstanding',scenic
+'scenery and amazing light',scenic
+'very relaxing day',scenic
+'are too expensive',scenic
+' sure about going',scenic
+'not see the down',scenic
+'walk bit',activity
+'places to rest',scenic
+'It was very nice',scenic
+'offering beautiful walk',scenic
+'in wonderful scenery',scenic
+'little and big',scenic
+'early morning Nearly',scenic
+'hours of walk',activity
+'really enjoyed and Bit',scenic
+'log walk',activity
+'the morning on 27th',scenic
+'a same place',scenic
+'The total walk',activity
+'itself is not difficult',scenic
+'beautiful and refreshing waterfalls',scenic
+'the park is large',scenic
+'Beautiful area nice',scenic
+'Nice but crowded hike',scenic
+'was a very long',scenic
+'the hike is nice',scenic
+'also very nice',scenic
+'scenic views at World',scenic
+'great hiking',activity
+'walking trail',activity
+'bring an extra',scenic
+'hike is totally worth',activity
+'a breathtaking sight',scenic
+'see so much',scenic
+'This park is huge',scenic
+'and very popular',scenic
+'Great place for',scenic
+'morning walk',activity
+'the reach the great',scenic
+'The walk is nice',activity
+'it is certainly possible',scenic
+'journey with equally stunning',scenic
+'visibility is good',scenic
+'Kms walk',activity
+'terrain in certain',scenic
+'morning is ideal',scenic
+'Water bottle in',scenic
+'hike was very easy',activity
+'going and other',scenic
+'But well worth',scenic
+'a clear view',scenic
+'clean and fresh',scenic
+'amazing experience for nature',scenic
+'a single view',scenic
+'great weather and',scenic
+'stops are superb',scenic
+'situated in Horton',scenic
+'take a truck-looking',scenic
+'it was much easier',scenic
+'an easy walk',scenic
+'just a few',scenic
+'End are beautiful',scenic
+'the peacefulness a little',scenic
+'walk like',activity
+'tiny area creating',scenic
+'Great value at',scenic
+'per person per half',scenic
+'most concentration of leopards',scenic
+'thay are very shy',scenic
+'also see a lot',scenic
+'see a peacock',scenic
+'place to listen',scenic
+'of wildlife and stunning',scenic
+'Recent rains had made',scenic
+'roads really rough',scenic
+'a terrific place',scenic
+'last year and yala',scenic
+'sight of leopard',scenic
+'a river was exciting',scenic
+'as so many',scenic
+'gone with great',scenic
+'but was not lucky',scenic
+'many more birds',scenic
+'crowded with many',scenic
+'see anything of',scenic
+'spotted were just',scenic
+'a little tiresome',scenic
+'Animals are few',scenic
+' see any leopards',scenic
+'best chance to see',scenic
+'find a reputable',scenic
+'Im an old',scenic
+'bank but visible',scenic
+'the leopard are elusive',scenic
+'abort the vast',scenic
+'race chasing elusive',scenic
+' see the leopards',scenic
+'however see some baby',scenic
+'lots of peacocks',scenic
+'so packed with drivers',scenic
+'Yala was awesome',scenic
+'We were very lucky',scenic
+'see wildlife in',scenic
+'the wild life',scenic
+'is a very peculiar',scenic
+'first of january',scenic
+'the less congested',scenic
+'see a leopard all',scenic
+'watch more animals',scenic
+'early morning the park',scenic
+'full of natural',scenic
+'spot a leopard',scenic
+'one can spot many',scenic
+'was wonderful trip',scenic
+'leopard but manage',scenic
+'see all other',scenic
+'safaris were more respectful',scenic
+' see a leopard',scenic
+'nice day but',scenic
+'only jeep trying',scenic
+'spot the leopard',scenic
+'same hope with tourists',scenic
+'be the first',scenic
+'bad reviews about Yala',scenic
+'safari is really good',scenic
+'It is always advisable',scenic
+'park is famous',scenic
+'Plenty of rare',scenic
+'see the leopard',scenic
+'a great great',scenic
+'set a great',scenic
+' miss the safari',activity
+'rides a lot',activity
+'best memories in Sri Lanka',scenic
+'park on 22nd',scenic
+'we could see more',scenic
+'the right place',scenic
+'running a true',scenic
+'ever done a safari',activity
+'this is not worth',scenic
+'sight of leopard',scenic
+'NOT ecologically friendly',scenic
+'booking an entire',scenic
+'is wonderful place',scenic
+'all kinds of wild',scenic
+'Such as wild',scenic
+'leopard and peacock',scenic
+'many safaris here',activity
+'timing was not right',scenic
+'not book any tours',scenic
+'per adult and free',scenic
+'see several elephants',scenic
+'and plenty of interesting',scenic
+'The terrain is interesting',scenic
+'the driver was separated',scenic
+'monosyllabic at best',scenic
+'beautiful local fowl',scenic
+'The scenery is amazing',scenic
+'was with so many',scenic
+'a quiet atmosphere',scenic
+'see the leopard',scenic
+'Quite expensive',scenic
+'usual animals water',scenic

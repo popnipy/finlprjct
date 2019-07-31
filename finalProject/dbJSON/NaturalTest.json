@@ -1,0 +1,504 @@
+{ 
+    "_id" : ObjectId("593db675a9644318c8be63ad"), 
+    "Type" : "Beach", 
+    "Name" : "Yala National Park", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "see everything that"
+    }
+}
+{ 
+    "_id" : ObjectId("593db677a9644318c8be63af"), 
+    "Type" : "Beach", 
+    "Name" : "Yala National Park", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "get hot"
+    }
+}
+{ 
+    "_id" : ObjectId("593db67aa9644318c8be63b2"), 
+    "Type" : "Beach", 
+    "Name" : "Yala National Park", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db67da9644318c8be63b4"), 
+    "Type" : "Beach", 
+    "Name" : "Yala National Park", 
+    "Phrases" : {
+        "Scenic" : "well hidden leopard", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db680a9644318c8be63b7"), 
+    "Type" : "Beach", 
+    "Name" : "Yala National Park", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "birds and smaller mammals"
+    }
+}
+{ 
+    "_id" : ObjectId("593db686a9644318c8be63bb"), 
+    "Type" : "Beach", 
+    "Name" : "Yala National Park", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "see everything that"
+    }
+}
+{ 
+    "_id" : ObjectId("593db688a9644318c8be63bd"), 
+    "Type" : "Beach", 
+    "Name" : "Yala National Park", 
+    "Phrases" : {
+        "Scenic" : "leopard Inna short time", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db68ca9644318c8be63c0"), 
+    "Type" : "Beach", 
+    "Name" : "Yala National Park", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db68fa9644318c8be63c3"), 
+    "Type" : "Beach", 
+    "Name" : "Yala National Park", 
+    "Phrases" : {
+        "Scenic" : "first safari", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db691a9644318c8be63c5"), 
+    "Type" : "Beach", 
+    "Name" : "Yala National Park", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "leopard or bear"
+    }
+}
+{ 
+    "_id" : ObjectId("593db697a9644318c8be63c9"), 
+    "Type" : "Beach", 
+    "Name" : "Yala National Park", 
+    "Phrases" : {
+        "Scenic" : "Enjoyed good", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db699a9644318c8be63cb"), 
+    "Type" : "Beach", 
+    "Name" : "Yala National Park", 
+    "Phrases" : {
+        "Scenic" : "Enjoyed good", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db69ba9644318c8be63cd"), 
+    "Type" : "Beach", 
+    "Name" : "World's End", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "wild animals"
+    }
+}
+{ 
+    "_id" : ObjectId("593db69da9644318c8be63cf"), 
+    "Type" : "Beach", 
+    "Name" : "World's End", 
+    "Phrases" : {
+        "Scenic" : "amazing nature", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6a5a9644318c8be63d4"), 
+    "Type" : "Beach", 
+    "Name" : "World's End", 
+    "Phrases" : {
+        "Scenic" : "Lots of tourists", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6a7a9644318c8be63d6"), 
+    "Type" : "Beach", 
+    "Name" : "World's End", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "view is fantastic"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6a9a9644318c8be63d8"), 
+    "Type" : "Beach", 
+    "Name" : "World's End", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "fees were really expensive"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6ada9644318c8be63db"), 
+    "Type" : "Beach", 
+    "Name" : "World's End", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "scenery is like"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6afa9644318c8be63dd"), 
+    "Type" : "Beach", 
+    "Name" : "World's End", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "Horton Plains trek"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6b1a9644318c8be63df"), 
+    "Type" : "Beach", 
+    "Name" : "World's End", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "climbing Adams"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6b3a9644318c8be63e1"), 
+    "Type" : "Beach", 
+    "Name" : "World's End", 
+    "Phrases" : {
+        "Activity" : "The whole walk", 
+        "Scenic" : "walk is just"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6b5a9644318c8be63e3"), 
+    "Type" : "Beach", 
+    "Name" : "World's End", 
+    "Phrases" : {
+        "Scenic" : "Lots of tourists", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6b9a9644318c8be63e6"), 
+    "Type" : "Beach", 
+    "Name" : "World's End", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "scenery is like"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6bba9644318c8be63e8"), 
+    "Type" : "Beach", 
+    "Name" : "Ella Rock", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6c1a9644318c8be63ec"), 
+    "Type" : "Beach", 
+    "Name" : "Ella Rock", 
+    "Phrases" : {
+        "Activity" : "was weary walking", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6c7a9644318c8be63f0"), 
+    "Type" : "Beach", 
+    "Name" : "Ella Rock", 
+    "Phrases" : {
+        "Activity" : "a steep climb", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6c9a9644318c8be63f2"), 
+    "Type" : "Beach", 
+    "Name" : "Ella Rock", 
+    "Phrases" : {
+        "Scenic" : "trip is worth", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6d2a9644318c8be63f7"), 
+    "Type" : "Beach", 
+    "Name" : "Ella Rock", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "rock was not"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6d4a9644318c8be63f9"), 
+    "Type" : "Beach", 
+    "Name" : "Ella Rock", 
+    "Phrases" : {
+        "Activity" : "was weary walking", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6d8a9644318c8be63fc"), 
+    "Type" : "Beach", 
+    "Name" : "Ella Rock", 
+    "Phrases" : {
+        "Scenic" : "trip is worth", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6dba9644318c8be63fe"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "see nice sceneries"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6dda9644318c8be6400"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "buddhist sound from"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6f1a9644318c8be640e"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6e2a9644318c8be6403"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "effort but climb", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6e6a9644318c8be6406"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "a nice walk", 
+        "Scenic" : "bad in terms"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6eda9644318c8be640a"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "best travel experiences"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6efa9644318c8be640c"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "steps just jumping"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6f3a9644318c8be6410"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Scenic" : "Usualy climbing", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6f8a9644318c8be6413"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "hour climb", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db6faa9644318c8be6415"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "starting climbing"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6fca9644318c8be6417"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "a nice walk", 
+        "Scenic" : "bad in terms"
+    }
+}
+{ 
+    "_id" : ObjectId("593db6fea9644318c8be6419"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "climbing experience"
+    }
+}
+{ 
+    "_id" : ObjectId("593db703a9644318c8be641c"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "best travel experiences"
+    }
+}
+{ 
+    "_id" : ObjectId("593db705a9644318c8be641e"), 
+    "Type" : "Beach", 
+    "Name" : "Adam's Peak", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "steps just jumping"
+    }
+}
+{ 
+    "_id" : ObjectId("593db708a9644318c8be6420"), 
+    "Type" : "Beach", 
+    "Name" : "Kandy Lake", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "colorful lights"
+    }
+}
+{ 
+    "_id" : ObjectId("593db70aa9644318c8be6422"), 
+    "Type" : "Beach", 
+    "Name" : "Kandy Lake", 
+    "Phrases" : {
+        "Scenic" : "see the water all", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db70ca9644318c8be6424"), 
+    "Type" : "Beach", 
+    "Name" : "Kandy Lake", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db711a9644318c8be6427"), 
+    "Type" : "Beach", 
+    "Name" : "Kandy Lake", 
+    "Phrases" : {
+        "Scenic" : "just a large", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db713a9644318c8be6429"), 
+    "Type" : "Beach", 
+    "Name" : "Kandy Lake", 
+    "Phrases" : {
+        "Scenic" : "Good spot for great photos", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db716a9644318c8be642b"), 
+    "Type" : "Beach", 
+    "Name" : "Kandy Lake", 
+    "Phrases" : {
+        "Scenic" : "beautiful lake", 
+        "Activity" : "actually walk"
+    }
+}
+{ 
+    "_id" : ObjectId("593db718a9644318c8be642d"), 
+    "Type" : "Beach", 
+    "Name" : "Kandy Lake", 
+    "Phrases" : {
+        "Scenic" : "dead fish", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db71aa9644318c8be642f"), 
+    "Type" : "Beach", 
+    "Name" : "Kandy Lake", 
+    "Phrases" : {
+        "Scenic" : "water monitor as", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db71da9644318c8be6431"), 
+    "Type" : "Beach", 
+    "Name" : "Kandy Lake", 
+    "Phrases" : {
+        "Scenic" : "lovely to take", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db71fa9644318c8be6433"), 
+    "Type" : "Beach", 
+    "Name" : "Kandy Lake", 
+    "Phrases" : {
+        "Scenic" : "see the water", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db721a9644318c8be6435"), 
+    "Type" : "Beach", 
+    "Name" : "Kandy Lake", 
+    "Phrases" : {
+        "Scenic" : "just a large", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db724a9644318c8be6437"), 
+    "Type" : "Beach", 
+    "Name" : "Kandy Lake", 
+    "Phrases" : {
+        "Scenic" : "beautiful lake", 
+        "Activity" : "actually walk"
+    }
+}

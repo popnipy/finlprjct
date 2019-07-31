@@ -1,0 +1,420 @@
+{ 
+    "_id" : ObjectId("592dd8d9b99ab50bf4756ba9"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "Due to monsoon season the sea was extremely rough and many rip tides in place, red flags consultants flying. Beach was also not the cleanest with litter being washed up and not removed"
+}
+{ 
+    "_id" : ObjectId("592dd8d9b99ab50bf4756baa"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "Lovely quiet beach big expanse of sand, worth walking up to the left and round the corner. Hardly anyone there lovely. There was a lady picking up litter - this was the only place we saw this happen on the island but it was so appreciated - later in the trip we went to Tangalle and it was full of..."
+}
+{ 
+    "_id" : ObjectId("592dd8d9b99ab50bf4756bac"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "Clear sands and very clean beach!! Excellent Buffet spread and a very well maintained Resort!! Lots of water activities"
+}
+{ 
+    "_id" : ObjectId("592dd8d9b99ab50bf4756bad"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "This is a must see if you are in the bentota area.Soft white sand and the blue sea is a breathtaking sight.Facilities for water sports are also available.However I like it more as a place to relax and just enjoy the sea and the waves.Best time to visit is early in the morning at the time when the dawn is..."
+}
+{ 
+    "_id" : ObjectId("592dd8d9b99ab50bf4756bae"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "Very nice virgin Beach with wonderful sunset. No much activity but serene and perfect for lazy day out"
+}
+{ 
+    "_id" : ObjectId("592dd8d9b99ab50bf4756baf"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "We spent one night in Sea Rock Hotel, a beach resort which is situated on the Golden Stretch of Beaches in Sri Lanka. The water was warm and the waves were just brilliant to watch and jump in. The sands were nice and clean and a paradise for the walkers as well as swimmers. Wish we had more time to..."
+}
+{ 
+    "_id" : ObjectId("592dd8d9b99ab50bf4756bb0"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "This is one of the larger beach hotels in the area - rooms surround a courtyard on one side with a balcony and views of the pool and beach on the other. The hotel Is suitable for a one night-stop-over after a lot of driving of a longer beach holiday. Comfortable outside bars and a patio. The buffet restaurant has..."
+}
+{ 
+    "_id" : ObjectId("592dd8d9b99ab50bf4756bb1"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "Nice clean sands.. you an see islands as well. Watersports are also nearby. Try to book a hotel with private beach. It's worth it."
+}
+{ 
+    "_id" : ObjectId("592dd8d9b99ab50bf4756bb2"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "The Indian Ocean is always so warm, the waves are brilliant to jump and play in. The beach is long and clean and sandy. Walking to the right takes you to the rocks and a lovely temple up a short rock path. Always take a sari and men a T-shirt to cover up when entering a temple. To the left..."
+}
+{ 
+    "_id" : ObjectId("592dd8dbb99ab50bf4756bb3"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "Very crowded . Amazing sunset . A lot of street food vendors were selling various authentic Sri Lankan dishes and a very cheap price. Good for a quick beach experience."
+}
+{ 
+    "_id" : ObjectId("592dd8dbb99ab50bf4756bb4"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "We cannot get into the water but can walk along the stretch on the neatly laid and maintained platform. It's an ideal place to spend the later part of the day. It was refreshing all the way."
+}
+{ 
+    "_id" : ObjectId("592dd8dbb99ab50bf4756bb5"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "Walk the green and see the vendors, watch the kites flying and families enjoying themselves and appreciate this now before things get too \"developed\". The quintessential Lanka evening is to watch the lowering of the flag and sunset here.Wonderful! Do it!"
+}
+{ 
+    "_id" : ObjectId("592dd8dbb99ab50bf4756bb6"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "Snake charmers, sea facing, people and buildings make for an interesting time at night. Good for a stroll amongst the locals"
+}
+{ 
+    "_id" : ObjectId("592dd8dbb99ab50bf4756bb7"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "Plenty of street food and restaurants are surrounding this area but over crowded we went on a Sunday."
+}
+{ 
+    "_id" : ObjectId("592dd8dbb99ab50bf4756bb8"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "nice place for the cool down part of the day where sun begins to set. and peoples in droves relaxing at the ground or walking the coastline."
+}
+{ 
+    "_id" : ObjectId("592dd8dbb99ab50bf4756bb9"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "Galle face green is very nice place to walk in early morning and evening. If you are going in evening it will be bit crowded but you will be able to see nice seen that sun is setting down the sea."
+}
+{ 
+    "_id" : ObjectId("592dd8dbb99ab50bf4756bba"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "Walk in sit and enjoy sundown you will forget everything around you for a moment Have some street food at NanaS Just the way I love to live"
+}
+{ 
+    "_id" : ObjectId("592dd8dbb99ab50bf4756bbb"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "Galle face is nice place to sit in the evening .you can see sen set there. Also there is small cafe shop for meals."
+}
+{ 
+    "_id" : ObjectId("592dd8ddb99ab50bf4756bbd"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "The beach is not clean and the price of food is quite expensive with the ambient of the restaurants there . But the taste of food is tasty ."
+}
+{ 
+    "_id" : ObjectId("592dd8ddb99ab50bf4756bbe"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "It's good to visit this place around 4pm and stay till sun set. A beautiful and neat beach;swimming is allowed and the guards are near the shore. There are two railway tracks running close to the beach. Hence crossing requires a lot of caution ,as..."
+}
+{ 
+    "_id" : ObjectId("592dd8ddb99ab50bf4756bbf"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "Just 13 km south of the country's capital, Colombo lies the beautiful sandy beach of Mount Lavinia. Sri Lanka is famous for its sandy beaches all round the island but most of the scenic beaches are far from Colombo. Hence ideal for visitors on business..."
+}
+{ 
+    "_id" : ObjectId("592dd8ddb99ab50bf4756bc0"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "Mount levenia is the one of best beach in colombo .in the evening you can go there.also you can see old colonel hitel also there"
+}
+{ 
+    "_id" : ObjectId("592dd8ddb99ab50bf4756bc2"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "Very fine beach with good ambience. Nice food and drinks was served by the hotel . Beach is not very much crowded and was very clean"
+}
+{ 
+    "_id" : ObjectId("592dd8ddb99ab50bf4756bc3"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "Evening with kids and friends Whilst kids play in the beach we had good time catching up. Sea was not rough and kids enjoyed the sand"
+}
+{ 
+    "_id" : ObjectId("592dd8ddb99ab50bf4756bc4"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "While in Sri Lanka it was quite the day when I was able to visit Mount Lavinia Beach. Very quiet area where you can watch locals fish or just play in the water. Breath taking views up and down the coast and they include a..."
+}
+{ 
+    "_id" : ObjectId("592dd8ddb99ab50bf4756bc5"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "I love the sea. I enjoyed walking across the train tracks to reach the beach. Some friendly locals showed me their impressive catches and let me take their photos. I also enjoyed watching the crowded trains whizz by. worth visiting if only for a little..."
+}
+{ 
+    "_id" : ObjectId("592dd8ddb99ab50bf4756bc6"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "During weekends this place will get crowded from the local people. Not safe to swim in general but can find few spots to swim. Fabulous for food. Full of reastarents for your choice specially seafood. Nice place to go in the evening to see the..."
+}
+{ 
+    "_id" : ObjectId("592dd8dfb99ab50bf4756bc8"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Review" : "The tide comes in up to the chairs and loungers - beware if you put your bags on the sand! Otherwise lovely!"
+}
+{ 
+    "_id" : ObjectId("592dd8dfb99ab50bf4756bc9"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Review" : "If You want to take some rest and chill You need to visit Mirissa Beach. It is a really clean and quiet sandy beach. And if You are hungry You can find some good restaurants near to the beach."
+}
+{ 
+    "_id" : ObjectId("592dd8dfb99ab50bf4756bca"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Review" : "One of the best beach in Down South which has much life. The best time is sunset hours. Go for parrot rock to see a sunset. it will be much romantic with less crowd. Becareful your steps when you go up and down to parrot..."
+}
+{ 
+    "_id" : ObjectId("592dd8dfb99ab50bf4756bcb"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Review" : "I am quiet disappointed by mirissa beach. Lots of dishes, to many resorts. Two good spots: the big rock in the middle and the coconuts island on the far-left side."
+}
+{ 
+    "_id" : ObjectId("592dd8dfb99ab50bf4756bcc"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Review" : "Love this beach. Really clean, nice white sand and beautiful water. Lots of cafes and restaurants along the beach but it's not overdone. Having said that, we're here in low season and it's nice and quiet - assume high season might be a different story"
+}
+{ 
+    "_id" : ObjectId("592dd8dfb99ab50bf4756bcd"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Review" : "What a great way to finish my trip in Sri Lanka. Mirissa beach is chilled and pretty. There are plenty of accommodation and restaurant options to fit everyone's budget."
+}
+{ 
+    "_id" : ObjectId("592dd8dfb99ab50bf4756bce"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Review" : "This is a beautiful sandy beach and it is really clean and ordered. If You wanted to chill out a little bit must visit this place."
+}
+{ 
+    "_id" : ObjectId("592dd8dfb99ab50bf4756bcf"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Review" : "Mirissa has a small beach with lots of cafes and water sports Also the locally whale watching boats leave locally"
+}
+{ 
+    "_id" : ObjectId("592dd8dfb99ab50bf4756bd0"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Review" : "Great spacious safe beach with Life Guards In season!Best in the area!Good choice of accommodation Most with restaurants and guest houses attached. We got here after the whale season had ended as well as snorkeling season to swim with the sea turtles!Great vibe from the..."
+}
+{ 
+    "_id" : ObjectId("592dd8dfb99ab50bf4756bd1"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Review" : "This beach and its view is fantastic, but there isn´t a proper public access to the beach. All the beach is occupied by hotels and shops. The waves are quite strong. Don´t swim there and watch your kids."
+}
+{ 
+    "_id" : ObjectId("592dd8e0b99ab50bf4756bd2"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "The beach was a good place to play.The sand was golden and very clean. There were very big tidal waves which made it all the more fun for kids as well as adults. The Hikkaduwa beach is beautiful and fun for the entire family.A must visit place"
+}
+{ 
+    "_id" : ObjectId("592dd8e0b99ab50bf4756bd3"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "We visited the Hikkaduwa Beachwhen we were staying close by at Narigama Beach. The biggest advantage is that there are lots of beach shacks, the boulders break the waves and makes sea swimming possible and there is a lifeguard on duty. However , the major downer is that it is very dirty and swarming with tourists. We visited in the..."
+}
+{ 
+    "_id" : ObjectId("592dd8e0b99ab50bf4756bd4"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "This was a very enjoyable trip! Hikkaduwa breach is the perfect place for family getaways! The children had a seabath and this place is a huge tourist attraction but it isn't very crowded, a quiet place can be found in the beach and it's a safe place for children to bath, very relaxing, one of the best beaches in Sri..."
+}
+{ 
+    "_id" : ObjectId("592dd8e0b99ab50bf4756bd5"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "A ca 3 km long beach.The southern part is perfect for swimming and surfing in the always high waves,and also for long walks along the beach with lots of restaurants and bars.Closer to the city center,the beach is more narrow,with an almost dead coral reef,ending up with the city lagoon,where the waves are more pleasant for people who don`t like..."
+}
+{ 
+    "_id" : ObjectId("592dd8e0b99ab50bf4756bd6"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "Perfect beach, not that crowded when you think of the beauty of it. There's turtles and lots of other fish. Keep an eye out for big container ships though, they make 2m waves, which can overburden some."
+}
+{ 
+    "_id" : ObjectId("592dd8e0b99ab50bf4756bd7"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "There are several good restaurants/bars on the sandy beach so it is good for having a drink and watching the sun set over the ocean. Not all the beach is good for swimming - really only one area that we saw where people did swim."
+}
+{ 
+    "_id" : ObjectId("592dd8e0b99ab50bf4756bd8"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "Was hoping to swim here but no luck: yes you can walk into the water further than you can in some other beaches but the waves, the currentt and the coral reef make it impossible to swim. The beach is very narrow a d not very clean."
+}
+{ 
+    "_id" : ObjectId("592dd8e0b99ab50bf4756bd9"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "It was my first time in Srilanka and the hotel had very nice view and the staff were also very suppotive. Overall the experience was very nice."
+}
+{ 
+    "_id" : ObjectId("592dd8e0b99ab50bf4756bda"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "One of the best beaches in Sri Lanka....that's the paradise for surfers and those who love waves....the beaches here are sharp and clean, water is amazing and you always can find where to eat,stay and rest here..."
+}
+{ 
+    "_id" : ObjectId("592dd8e0b99ab50bf4756bdb"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "We visited in April which was the off season and found at some hours of the day the beach was deserted and we had the place to ourselves. It really is a hidden gem. Huge waves and lovely soft sand. Not too many locals are on the beach around the tourist areas and you don't get pestered by too many..."
+}
+{ 
+    "_id" : ObjectId("592dd8f4b99ab50bf4756c7c"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "Went to Galle Face Green for sunset after wandering around the Galle Face Hotel and glad we did. This place was nice, breezy and teeming with local Colombo life and a good little peek at what the locals do on the weekends. But the biggest surprise was the amazing food available here just off the breezy breakwater. Had perhaps our..."
+}
+{ 
+    "_id" : ObjectId("592dd8f7b99ab50bf4756c93"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Review" : "One of the best beach in Down South which has much life. The best time is sunset hours. Go for parrot rock to see a sunset. it will be much romantic with less crowd. Becareful your steps when you go up and down to parrot rock. Good vibe in the evening at all pubs."
+}
+{ 
+    "_id" : ObjectId("592dd8f7b99ab50bf4756c99"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Review" : "Great spacious safe beach with Life Guards In season!Best in the area!Good choice of accommodation Most with restaurants and guest houses attached. We got here after the whale season had ended as well as snorkeling season to swim with the sea turtles!Great vibe from the locals and honest Tuk-Tuk drivers."
+}
+{ 
+    "_id" : ObjectId("592e0ef910c2711db8f76dfc"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "It's good to visit this place around 4pm and stay till sun set. A beautiful and neat beach;swimming is allowed and the guards are near the shore. There are two railway tracks running close to the beach. Hence crossing requires a lot of caution ,as trains pass through almost every five minutes."
+}
+{ 
+    "_id" : ObjectId("592e0ef910c2711db8f76dfd"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "Just 13 km south of the country's capital, Colombo lies the beautiful sandy beach of Mount Lavinia. Sri Lanka is famous for its sandy beaches all round the island but most of the scenic beaches are far from Colombo. Hence ideal for visitors on business trips or in transit. Easily accessible by Colombo - Galle A2 main road around 45-minute..."
+}
+{ 
+    "_id" : ObjectId("592e0ef910c2711db8f76e02"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "While in Sri Lanka it was quite the day when I was able to visit Mount Lavinia Beach. Very quiet area where you can watch locals fish or just play in the water. Breath taking views up and down the coast and they include a view of the governor's mansion as it overlooks the beach from the south. Water was..."
+}
+{ 
+    "_id" : ObjectId("592e0ef910c2711db8f76e03"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "I love the sea. I enjoyed walking across the train tracks to reach the beach. Some friendly locals showed me their impressive catches and let me take their photos. I also enjoyed watching the crowded trains whizz by. worth visiting if only for a little while."
+}
+{ 
+    "_id" : ObjectId("592e0ef910c2711db8f76e04"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Review" : "During weekends this place will get crowded from the local people. Not safe to swim in general but can find few spots to swim. Fabulous for food. Full of reastarents for your choice specially seafood. Nice place to go in the evening to see the sunset have a beer and enjoy some good food with your friends, partner or even..."
+}
+{ 
+    "_id" : ObjectId("592e0f1a10c2711db8f76ed8"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "The beach was a good place to play.The sand was golden and very clean. There were very big tidal waves which made it all the more fun for kids as well as adults. The Hikkaduwa beach is beautiful and fun for the entire family.A must..."
+}
+{ 
+    "_id" : ObjectId("592e0f1a10c2711db8f76ed9"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "We visited the Hikkaduwa Beachwhen we were staying close by at Narigama Beach. The biggest advantage is that there are lots of beach shacks, the boulders break the waves and makes sea swimming possible and there is a lifeguard on duty. However , the major..."
+}
+{ 
+    "_id" : ObjectId("592e0f1a10c2711db8f76eda"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "This was a very enjoyable trip! Hikkaduwa breach is the perfect place for family getaways! The children had a seabath and this place is a huge tourist attraction but it isn't very crowded, a quiet place can be found in the beach and it's a..."
+}
+{ 
+    "_id" : ObjectId("592e0f1a10c2711db8f76edb"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "A ca 3 km long beach.The southern part is perfect for swimming and surfing in the always high waves,and also for long walks along the beach with lots of restaurants and bars.Closer to the city center,the beach is more narrow,with an almost dead coral reef,ending..."
+}
+{ 
+    "_id" : ObjectId("592e0f1a10c2711db8f76ede"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "Was hoping to swim here but no luck: yes you can walk into the water further than you can in some other beaches but the waves, the currentt and the coral reef make it impossible to swim. The beach is very narrow a d not..."
+}
+{ 
+    "_id" : ObjectId("592e0f1a10c2711db8f76ee1"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Review" : "We visited in April which was the off season and found at some hours of the day the beach was deserted and we had the place to ourselves. It really is a hidden gem. Huge waves and lovely soft sand. Not too many locals are..."
+}
+{ 
+    "_id" : ObjectId("592ed03010c2710774118f9f"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "Lovely quiet beach big expanse of sand, worth walking up to the left and round the corner. Hardly anyone there lovely. There was a lady picking up litter - this was the only place we saw this happen on the island but it was so..."
+}
+{ 
+    "_id" : ObjectId("592ed03010c2710774118fa0"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "I visited Bentota beach with a friend I met on holiday. It wasn't as busy as I thought it would be, just a few people who had rented sun loungers like ourselves and some who were taking a stroll or a swim. The beach was..."
+}
+{ 
+    "_id" : ObjectId("592ed03010c2710774118fa2"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "This is a must see if you are in the bentota area.Soft white sand and the blue sea is a breathtaking sight.Facilities for water sports are also available.However I like it more as a place to relax and just enjoy the sea and the waves.Best..."
+}
+{ 
+    "_id" : ObjectId("592ed03110c2710774118fa4"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "We spent one night in Sea Rock Hotel, a beach resort which is situated on the Golden Stretch of Beaches in Sri Lanka. The water was warm and the waves were just brilliant to watch and jump in. The sands were nice and clean and..."
+}
+{ 
+    "_id" : ObjectId("592ed03110c2710774118fa5"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "This is one of the larger beach hotels in the area - rooms surround a courtyard on one side with a balcony and views of the pool and beach on the other. The hotel Is suitable for a one night-stop-over after a lot of driving..."
+}
+{ 
+    "_id" : ObjectId("592ed03110c2710774118fa7"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Review" : "The Indian Ocean is always so warm, the waves are brilliant to jump and play in. The beach is long and clean and sandy. Walking to the right takes you to the rocks and a lovely temple up a short rock path. Always take a..."
+}
+{ 
+    "_id" : ObjectId("592ed03210c2710774118fa8"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "Since it was the morning time it was not that much crowded. Only few peoples who comes for jogging and some couples who might have came for chit chats."
+}
+{ 
+    "_id" : ObjectId("592ed03210c2710774118fa9"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "Went to Galle Face Green for sunset after wandering around the Galle Face Hotel and glad we did. This place was nice, breezy and teeming with local Colombo life and a good little peek at what the locals do on the weekends. But the biggest..."
+}
+{ 
+    "_id" : ObjectId("592ed2e010c271231891f563"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Review" : "Nice view.. had a great time on the bridge that was made.. but we are vegetarians so had a bad time with the smell in that place.. it smells full of non-veg."
+}

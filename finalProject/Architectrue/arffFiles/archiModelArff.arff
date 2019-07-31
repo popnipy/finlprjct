@@ -1,0 +1,621 @@
+@relation 'testing1-weka.filters.unsupervised.attribute.Add-TNOM-NNewNominal-LSA,S&L-Clast'
+
+@attribute text string
+@attribute NewNominal {SA,S&L}
+
+@data
+'lovely to see',?
+'large and overcrowded',?
+'learn the history',?
+'see the tooth',?
+'see absolutely nothing',?
+'walk and dont',?
+'stone cut stairs',?
+'very hot',?
+'top were speculative',?
+'really interesting and',?
+'well worth the',?
+'Buddhist civilization of Sri',?
+'Buddhas doctrine to',?
+'hill was covered',?
+'top were great',?
+'stone cut stairs',?
+'extremely hot',?
+'very hot',?
+'top were speculative',?
+'really interesting and',?
+'well worth the',?
+'place is now',?
+'Buddhist civilization of Sri',?
+'Buddhas doctrine to',?
+'important places',?
+'sacred place for Buddhists',?
+'nice n',?
+'rock is not covered',?
+'back again sure',?
+'back last month',?
+'bit of climbing',?
+'temple and see',?
+'back last month to',?
+'See spot if',?
+'famous Ravana',?
+'beautiful location in Trincomalee',?
+'See in Sri',?
+'Really a Must-',?
+'bit of climbing',?
+'temple and see',?
+'climb is demanding',?
+'top are extensive',?
+'well worth a',?
+'Sri Lanka then visit',?
+'place to visit',?
+'view is astonishing',?
+'most famous sight',?
+'climb is demanding',?
+'top are extensive',?
+'well worth a',?
+'Hiking is not',?
+'good condition',?
+'really well done',?
+'temple as well',?
+'temple is very grand',?
+'Indias best',?
+'Climb is easy',?
+'see breathtaking cave',?
+'temple and caves',?
+'places the Golden',?
+'first destination',?
+'really well done',?
+'Well worth a',?
+'lovely and the Buddha',?
+'climb a staircase',?
+'Buddha in Sri',?
+'bad road and',?
+'view is good',?
+'walk without shoes',?
+'comfortable to move',?
+'statue was painful',?
+'was very hot',?
+'tuk ride',?
+'Buddha statue seen',?
+'attractive and hilly place',?
+'Sri Maha Bodhi Viharaya at Bahirawakanda',?
+'nice view from',?
+'long dress',?
+'statue is amazing',?
+'sight on Kandy',?
+'perfect spot to have',?
+'walk down',?
+'reward is a',?
+'Long walk',?
+'see some presevation',?
+'highlight here',?
+'place is beautiful',?
+'Good work from old kings',?
+'see place in',?
+'Beautiful ancient temple',?
+'absolutely be visited',?
+'great diversity so',?
+'walking and yet',?
+'beautiful small streets',?
+'really an eye',?
+'place to visit',?
+'great diversity so',?
+'walking and yet',?
+'beautiful small streets',?
+'really an eye',?
+'nice view of',?
+'Nice views from',?
+'good restaurants',?
+'good experience',?
+'place to stay',?
+'lots of good quality',?
+'historic places to visit',?
+'ancient ruins of',?
+'hours wandering',?
+'second capital',?
+'know history',?
+'ruins better',?
+'museum first',?
+'critical to go',?
+'see the ruins',?
+'sun are way',?
+'place is huge',?
+'was very hot',?
+'a quick walk',?
+'Ruwanweliseya is just',?
+'good understanding',?
+'stupa in Sri',?
+'Ruwanwelisaya is a',?
+'Great vibe from',?
+'Most with restaurants',?
+'Good choice of accommodation',?
+'Life Guards In',?
+'Great spacious safe',?
+'Great vibe from',?
+'Most with restaurants',?
+'Good choice of accommodation',?
+'Life Guards In season',?
+'Great spacious safe',?
+'just a large',?
+'lovely to take',?
+'good spots',?
+'Lots of dishes',?
+'good restaurants near',?
+'good food',?
+'see the sunset',?
+'Nice place to go',?
+'swim in general',?
+'crowded trains',?
+'friendly locals',?
+'love the sea',?
+'steps just jumping',?
+'most toughest track',?
+'or just play',?
+'watch locals fish',?
+'bad in terms',?
+'a nice walk',?
+'hour climb',?
+'bad time',?
+'great time on',?
+'Nice view',?
+'steps just jumping',?
+'most toughest track to',?
+'just a couple',?
+'average level',?
+'good experience',?
+'effort but climb',?
+'hour climb',?
+'just a few',?
+'was weary walking',?
+'rocks and a lovely temple',?
+'jump and play',?
+'waves are brilliant',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'a steep climb',?
+'walk is very straight',?
+'first part',?
+'avoid walking',?
+'easy because everybody',?
+'rock was not',?
+'rock today in mai',?
+'Best to go',?
+'Best to check',?
+'complete the whole walk',?
+'walk is just',?
+'The whole walk',?
+'Horton Plains trek',?
+'Horton Plain reviews',?
+'Best to go',?
+'Best to check',?
+'complete the whole walk',?
+'view is fantastic',?
+'water and wear comfortable shoes',?
+'just a few',?
+'Beautiful Breath Taking',?
+'Horton Plains trek',?
+'Horton Plain',?
+'wild animals',?
+'Beautiful trees',?
+'Enjoyed good',?
+'rocks and a lovely temple',?
+'jump and play',?
+'waves are brilliant',?
+'Comfortable outside bars',?
+'lot of driving',?
+'perfect for lazy day',?
+'Very nice virgin Beach',?
+'Lots of water',?
+'clean beach',?
+'Clear sands',?
+'better chance',?
+'see the leopard',?
+'wild birds',?
+'good place',?
+'birds and smaller mammals',?
+'first safari',?
+'well hidden leopard',?
+'see everything that',?
+'see the big',?
+'waves and lovely',?
+'really is a',?
+'dead coral',?
+'lots of restaurants',?
+'long walks',?
+'perfect for swimming',?
+'sea swimming',?
+'lots of beach',?
+'waves and lovely',?
+'really is a',?
+'nice view and',?
+'first time',?
+'good for swimming',?
+'good restaurants',?
+'waves are more pleasant',?
+'dead coral',?
+'lots of restaurants',?
+'long walks',?
+'perfect for swimming',?
+'sea swimming',?
+'lots of beach',?
+'Great vibe from',?
+'Most with restaurants',?
+'Good choice of accommodation',?
+'Life Guards In',?
+'Great spacious safe',?
+'t swim',?
+'waves are quite strong',?
+'view is fantastic',?
+'lots of cafes',?
+'trip in Sri',?
+'great way to finish',?
+'good spots',?
+'Lots of dishes',?
+'good restaurants near',?
+'good food',?
+'see the sunset',?
+'Nice place to go',?
+'swim in general',?
+'or just play',?
+'watch locals fish',?
+'lot of caution',?
+'swimming is allowed',?
+'beautiful and neat beach',?
+'good to visit',?
+'crowded trains',?
+'friendly locals',?
+'love the sea',?
+'good time',?
+'kids play',?
+'see old colonel',?
+'best beach in colombo',?
+'lot of caution',?
+'swimming is allowed',?
+'beautiful and neat',?
+'good to visit',?
+'bad time',?
+'great time on',?
+'Nice view',?
+'see sen set',?
+'nice place to sit',?
+'sun is setting',?
+'see nice seen',?
+'bit crowded',?
+'very nice place to',?
+'watch the lowering',?
+'watch the kites',?
+'see the vendors',?
+'Walk the green',?
+'lot of street',?
+'Amazing sunset',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Nice clean',?
+'well as swimmers',?
+'sands were nice',?
+'watch and jump',?
+'waves were just',?
+'water was warm',?
+'Best time',?
+'place to relax',?
+'Soft white sand',?
+'worth walking',?
+'Lovely quiet beach',?
+'Clear sands',?
+'clean beach',?
+'Lots of water',?
+'Very nice virgin Beach',?
+'perfect for lazy day',?
+'lot of driving',?
+'Comfortable outside bars',?
+'waves are brilliant',?
+'jump and play',?
+'rocks and a lovely temple',?
+'just a few',?
+'water was warm',?
+'waves were just brilliant',?
+'watch and jump',?
+'sands were nice',?
+'waves are brilliant',?
+'jump and play',?
+'rocks and a lovely temple',?
+'place to spend',?
+'nice place',?
+'ground or walking',?
+'Walk in sit',?
+'Just the way',?
+'love to live',?
+'place was nice',?
+'life and a good',?
+'amazing food',?
+'place was nice',?
+'life and a good',?
+'food is quite expensive',?
+'beautiful sandy beach',?
+'Sri Lanka is famous',?
+'fine beach with good ambience',?
+'Nice food',?
+'watch locals fish',?
+'or just play',?
+'swim in general',?
+'Nice place to go',?
+'beautiful sandy beach',?
+'Sri Lanka is famous',?
+'love the sea',?
+'friendly locals',?
+'crowded trains',?
+'best beach',?
+'best time',?
+'rock to see',?
+'Love this beach',?
+'nice white sand',?
+'beautiful water',?
+'Lots of cafes',?
+'nice and quiet',?
+'different story',?
+'beautiful sandy beach',?
+'Great spacious safe',?
+'Life Guards In season',?
+'Good choice of accommodation',?
+'Most with restaurants',?
+'Great vibe from',?
+'best beach in',?
+'best time',?
+'rock to see',?
+'Good vibe in',?
+'good place',?
+'sand was golden',?
+'well as adults',?
+'beautiful and fun',?
+'perfect place for',?
+'place is a huge',?
+'place for children',?
+'best beaches',?
+'Perfect beach',?
+'turtles and lots',?
+'swim here',?
+'best beaches in Sri',?
+'water is amazing',?
+'good place to',?
+'sand was golden',?
+'well as adults',?
+'beautiful and fun',?
+'perfect place for family',?
+'place is a huge',?
+'swim here',?
+'great time spotting',?
+'wild animals',?
+'leopard was too elusive',?
+'leopard Inna short',?
+'get hot',?
+'well worth enduring',?
+'Lots of water',?
+'wild boar',?
+'tour maybe better',?
+'leopard or bear',?
+'wild boar',?
+'water buffalo and',?
+'Lovely quiet beach',?
+'worth walking',?
+'Soft white sand',?
+'place to relax',?
+'Best time',?
+'well worth enduring',?
+'Lots of water',?
+'wild boar',?
+'Nice clean',?
+'Nice park',?
+'lot of different animals',?
+'long ques',?
+'Enjoyed good',?
+'amazing nature',?
+'easy and short',?
+'climbing Adams',?
+'view is simply breathtaking',?
+'Lots of tourists',?
+'bad experiences',?
+'fees were really expensive',?
+'hiking tour but',?
+'scenery is like',?
+'easy and short',?
+'climbing Adams',?
+'Lots of tourists',?
+'hiking tour but',?
+'scenery is like',?
+'mostly walk',?
+'second turning',?
+'see a small stream',?
+'Great view at',?
+'was weary walking',?
+'great tour with german',?
+'water fall and demodara',?
+'superb weather',?
+'trip is worth',?
+'Nice clean',?
+'rock today in mai',?
+'rock was not',?
+'avoid walking',?
+'first part',?
+'walk is very straight',?
+'water was warm',?
+'waves were just brilliant',?
+'watch and jump',?
+'sands were nice',?
+'Amazing sunset',?
+'lot of street',?
+'really a worthy lifetime',?
+'starting climbing',?
+'trip was really',?
+'nice place',?
+'ground or walking',?
+'nice place to sit',?
+'see sen set',?
+'place was nice',?
+'life and a good',?
+'climb Adam',?
+'sweet release of',?
+'best of ideas',?
+'really a worthy',?
+'starting climbing',?
+'kids play',?
+'good time',?
+'love the sea',?
+'friendly locals',?
+'crowded trains',?
+'Buddhist holiday of Vesak',?
+'colorful lights',?
+'best beach',?
+'best time',?
+'rock to see',?
+'Love this beach',?
+'nice white sand',?
+'beautiful water',?
+'Lots of cafes',?
+'nice and quiet',?
+'different story',?
+'see the water',?
+'beautiful lake',?
+'actually walk',?
+'great way to finish',?
+'trip in Sri',?
+'best beach in',?
+'best time',?
+'rock to see',?
+'Good vibe in',?
+'good place',?
+'sand was golden',?
+'well as adults',?
+'beautiful and fun',?
+'stupa was built',?
+'BC from Anuradhapura',?
+'stupa in Sri',?
+'most venerated Buddhist',?
+'best places to visit',?
+'see the ruins',?
+'critical to go',?
+'museum first',?
+'ruins better',?
+'fantastic guide from',?
+'know history',?
+'second capital',?
+'hours wandering',?
+'ancient ruins of',?
+'clear insight',?
+'stone parts of buildings',?
+'historic places to',?
+'see some wild',?
+'good place to',?
+'sand was golden',?
+'well as adults',?
+'beautiful and fun',?
+'place is huge',?
+'stone walls of',?
+'Nice place',?
+'place is important',?
+'nice small streets',?
+'light house',?
+'lots of good quality',?
+'light house and',?
+'see some presevation',?
+'perfect example of craftsmanship',?
+'great craftsmanship of',?
+'ancient Sri Lanka',?
+'different transportation',?
+'Amazing site',?
+'background history',?
+'was very hot',?
+'statue was painful',?
+'comfortable to move',?
+'walk without shoes',?
+'nice temple to visit',?
+'great views of',?
+'view is good',?
+'bad road',?
+'temple was closed',?
+'temples here charge',?
+'Buddha in Sri',?
+'climb a staircase',?
+'lovely and the Buddha',?
+'Well worth a',?
+'nice temple',?
+'great views of',?
+'nice view',?
+'most other temples',?
+'rock persistently trying',?
+'cave temple and Golden',?
+'Nice view',?
+'view much better',?
+'pay expensive',?
+'charge much',?
+'place is beautiful',?
+'see the Golden',?
+'statue of Lord',?
+'temple is spic',?
+'most other temples',?
+'rock persistently trying',?
+'first destination',?
+'places the Golden',?
+'temple and caves',?
+'see breathtaking cave',?
+'Climb is easy',?
+'just few stairs',?
+'is not much walking',?
+'place to visit',?
+'Sri Lanka then visit',?
+'Sri Lanka then visit Sigiriya',?
+'rock in 5th century',?
+'trip to see',?
+'Rock and well',?
+'are various climbs',?
+'ancient palace or',?
+'Sri Lanka for foreigners',?
+'is also expensive',?
+'rock in 5th century',?
+'ancient palace or',?
+'temple is also',?
+'a Very long history',?
+'amazing Temple',?
+'history and rituals',?
+'walk from fort',?
+'walk is quite nice',?
+'beautiful place',?
+'view was awesome',?
+'good with lots',?
+'Pleasant place for devotees',?
+'temple is also',?
+'walk from fort',?
+'walk is quite nice',?
+'Kovil is breathtaking',?
+'place is an ancient',?
+'important place',?
+'hill was covered',?
+'climb was very nice',?
+'Dagoba was super',?
+'top of hills',?
+'rock was definitely worth',?
+'view was spectacular',?
+'Buddha statue for sunset',?
+'climb a giant rock',?
+'Lots of monkeys',?
+'nice view in',?
+'good example of rich culture',?
+'rock is not covered',?
+'top of hills',?
+'rock was definitely worth',?
+'view was spectacular',?
+'climb a giant rock',?
+'Lots of monkeys',?
+'nice view',?
+'tradition with amazing history',?
+'see the tooth',?
+'see the more',?
+'August Pageant',?
+'lovely to see',?
+'Well worth a',?
+'lot to see',?
+'see the tooth',?
+'see the more tranquil',?
+'learn the history',?

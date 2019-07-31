@@ -1,0 +1,423 @@
+{ 
+    "_id" : ObjectId("59369656d0250f166462be8f"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Beach was also", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59369659d0250f166462be91"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Lovely quiet beach", 
+        "Activity" : "worth walking"
+    }
+}
+{ 
+    "_id" : ObjectId("5936965bd0250f166462be93"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "beach was vast"
+    }
+}
+{ 
+    "_id" : ObjectId("5936965ed0250f166462be95"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Lots of water", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59369661d0250f166462be97"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "Best time to visit"
+    }
+}
+{ 
+    "_id" : ObjectId("59369665d0250f166462be99"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "perfect for lazy day"
+    }
+}
+{ 
+    "_id" : ObjectId("59369670d0250f166462be9d"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59369679d0250f166462bea0"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Lovely quiet beach", 
+        "Activity" : "worth walking"
+    }
+}
+{ 
+    "_id" : ObjectId("5936967ed0250f166462bea2"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "just a few people", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59369687d0250f166462bea4"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Soft white sand", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("59369692d0250f166462bea7"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "beach hotels in", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936c8fad0250f13a84f7055"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Beach was also", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936c8fed0250f13a84f7057"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Lovely quiet beach", 
+        "Activity" : "worth walking"
+    }
+}
+{ 
+    "_id" : ObjectId("5936c901d0250f13a84f7059"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "beach was vast"
+    }
+}
+{ 
+    "_id" : ObjectId("5936c904d0250f13a84f705b"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Lots of water", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936c907d0250f13a84f705d"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "Best time to visit"
+    }
+}
+{ 
+    "_id" : ObjectId("5936c912d0250f13a84f705f"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "perfect for lazy day"
+    }
+}
+{ 
+    "_id" : ObjectId("5936c91ed0250f13a84f7063"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936c927d0250f13a84f7066"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Lovely quiet beach", 
+        "Activity" : "worth walking"
+    }
+}
+{ 
+    "_id" : ObjectId("5936c92bd0250f13a84f7068"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "just a few people", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936c936d0250f13a84f706a"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Soft white sand", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936c943d0250f13a84f706d"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "beach hotels in", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936c950d0250f13a84f7070"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "lot of street", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936c955d0250f13a84f7072"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936c95cd0250f13a84f7074"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "see the vendors", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936c961d0250f13a84f7076"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936c96ad0250f13a84f7078"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936c974d0250f13a84f707a"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "nice place for", 
+        "Activity" : "ground or walking"
+    }
+}
+{ 
+    "_id" : ObjectId("5936c981d0250f13a84f707c"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "see nice seen"
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea1dd0250f178c4a619e"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Beach was also", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea20d0250f178c4a61a0"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Lovely quiet beach", 
+        "Activity" : "worth walking"
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea22d0250f178c4a61a2"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "beach was vast"
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea23d0250f178c4a61a4"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Lots of water", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea37d0250f178c4a61ac"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea25d0250f178c4a61a6"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "Best time to visit"
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea26d0250f178c4a61a8"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "perfect for lazy day"
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea39d0250f178c4a61af"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Lovely quiet beach", 
+        "Activity" : "worth walking"
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea3bd0250f178c4a61b1"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "just a few people", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea3cd0250f178c4a61b3"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Soft white sand", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea3ed0250f178c4a61b6"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "beach hotels in", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea42d0250f178c4a61b9"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "lot of street", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea49d0250f178c4a61bb"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea4cd0250f178c4a61bd"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "see the vendors", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea52d0250f178c4a61bf"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea5ad0250f178c4a61c1"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea61d0250f178c4a61c3"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "nice place for", 
+        "Activity" : "ground or walking"
+    }
+}
+{ 
+    "_id" : ObjectId("5936ea6cd0250f178c4a61c5"), 
+    "Type" : "Beach", 
+    "BeachName" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "see nice seen"
+    }
+}

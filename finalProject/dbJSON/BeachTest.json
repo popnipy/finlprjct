@@ -1,0 +1,396 @@
+{ 
+    "_id" : ObjectId("593db5e4a9644318c8be6339"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db5e7a9644318c8be633b"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Lovely quiet beach", 
+        "Activity" : "worth walking"
+    }
+}
+{ 
+    "_id" : ObjectId("593db5eaa9644318c8be633d"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "perfect temperature"
+    }
+}
+{ 
+    "_id" : ObjectId("593db5f2a9644318c8be6341"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "perfect for lazy day"
+    }
+}
+{ 
+    "_id" : ObjectId("593db5f7a9644318c8be6344"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "Comfortable outside bars"
+    }
+}
+{ 
+    "_id" : ObjectId("593db5f9a9644318c8be6346"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Nice clean", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db5fda9644318c8be6349"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "Lovely quiet beach", 
+        "Activity" : "worth walking"
+    }
+}
+{ 
+    "_id" : ObjectId("593db600a9644318c8be634b"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Phrases" : {
+        "Scenic" : "just a few", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db602a9644318c8be634d"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "place to relax"
+    }
+}
+{ 
+    "_id" : ObjectId("593db606a9644318c8be6350"), 
+    "Type" : "Beach", 
+    "Name" : "Bentota", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db60aa9644318c8be6353"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "lot of street"
+    }
+}
+{ 
+    "_id" : ObjectId("593db60ca9644318c8be6355"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Phrases" : {
+        "Scenic" : "place to spend", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db610a9644318c8be6358"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db612a9644318c8be635a"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db614a9644318c8be635c"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Phrases" : {
+        "Scenic" : "nice place", 
+        "Activity" : "ground or walking"
+    }
+}
+{ 
+    "_id" : ObjectId("593db61aa9644318c8be6360"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "see sen set"
+    }
+}
+{ 
+    "_id" : ObjectId("593db61ea9644318c8be6363"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db61fa9644318c8be6365"), 
+    "Type" : "Beach", 
+    "Name" : "Galle Face", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "life and a good"
+    }
+}
+{ 
+    "_id" : ObjectId("593db623a9644318c8be6368"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Phrases" : {
+        "Scenic" : "food is quite expensive", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db627a9644318c8be636b"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "Sri Lanka is famous"
+    }
+}
+{ 
+    "_id" : ObjectId("593db629a9644318c8be636d"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "see old colonel"
+    }
+}
+{ 
+    "_id" : ObjectId("593db62ba9644318c8be636f"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "Nice food"
+    }
+}
+{ 
+    "_id" : ObjectId("593db62da9644318c8be6371"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "good time"
+    }
+}
+{ 
+    "_id" : ObjectId("593db62fa9644318c8be6373"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "or just play"
+    }
+}
+{ 
+    "_id" : ObjectId("593db632a9644318c8be6376"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Phrases" : {
+        "Activity" : "swim in general", 
+        "Scenic" : "Nice place to go"
+    }
+}
+{ 
+    "_id" : ObjectId("593db636a9644318c8be6379"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "Sri Lanka is famous"
+    }
+}
+{ 
+    "_id" : ObjectId("593db638a9644318c8be637b"), 
+    "Type" : "Beach", 
+    "Name" : "Mount Lavinia", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "or just play"
+    }
+}
+{ 
+    "_id" : ObjectId("593db63ea9644318c8be637f"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db640a9644318c8be6381"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Phrases" : {
+        "Scenic" : "good restaurants near", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db643a9644318c8be6384"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "good spots"
+    }
+}
+{ 
+    "_id" : ObjectId("593db648a9644318c8be6387"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "trip in Sri"
+    }
+}
+{ 
+    "_id" : ObjectId("593db649a9644318c8be6389"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Phrases" : {
+        "Scenic" : "beautiful sandy beach", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db64ba9644318c8be638b"), 
+    "Type" : "Beach", 
+    "Name" : "Mirissa", 
+    "Phrases" : {
+        "Scenic" : "lots of cafes", 
+        "Activity" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db657a9644318c8be6392"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Phrases" : {
+        "Scenic" : "lots of beach", 
+        "Activity" : "sea swimming"
+    }
+}
+{ 
+    "_id" : ObjectId("593db65ca9644318c8be6396"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "turtles and lots"
+    }
+}
+{ 
+    "_id" : ObjectId("593db65ea9644318c8be6398"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Phrases" : {
+        "Scenic" : "good restaurants", 
+        "Activity" : "good for swimming"
+    }
+}
+{ 
+    "_id" : ObjectId("593db660a9644318c8be639a"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Phrases" : {
+        "Activity" : "swim here", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db662a9644318c8be639c"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "nice view and"
+    }
+}
+{ 
+    "_id" : ObjectId("593db664a9644318c8be639e"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "water is amazing"
+    }
+}
+{ 
+    "_id" : ObjectId("593db666a9644318c8be63a0"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "waves and lovely"
+    }
+}
+{ 
+    "_id" : ObjectId("593db669a9644318c8be63a3"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Phrases" : {
+        "Scenic" : "lots of beach", 
+        "Activity" : "sea swimming"
+    }
+}
+{ 
+    "_id" : ObjectId("593db66ba9644318c8be63a5"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "place is a huge"
+    }
+}
+{ 
+    "_id" : ObjectId("593db66fa9644318c8be63a8"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Phrases" : {
+        "Activity" : "swim here", 
+        "Scenic" : ""
+    }
+}
+{ 
+    "_id" : ObjectId("593db671a9644318c8be63aa"), 
+    "Type" : "Beach", 
+    "Name" : "Hikkaduwa", 
+    "Phrases" : {
+        "Activity" : "", 
+        "Scenic" : "waves and lovely"
+    }
+}

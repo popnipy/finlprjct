@@ -1,0 +1,67 @@
+(
+   {Token.kind==word, Token.category==JJ}
+   |
+   {Token.kind==word, Token.category==JJR}
+   |
+   {Token.kind==word, Token.category==JJS}
+   |
+   {Token.kind==word, Token.category==JJSS}
+   )  
+   
+   
+   ( {Token.kind==word, Token.category==TO})
+   
+   ({Lookup.majorType == "abc"})
+   
+   
+   ( {Token.kind==word, Token.category==NN}
+   |
+   {Token.kind==word, Token.category==NNP}
+   |
+   {Token.kind==word, Token.category==NNPS}
+   |
+   {Token.kind==word, Token.category==NNS}
+   |
+   {Token.kind==word, Token.category==NP}
+   |
+   {Token.kind==word, Token.category==NPS}
+   )
+   
+   
+   (
+   {Token.kind==word, Token.category==RB}
+   |
+   {Token.kind==word, Token.category==RBR}
+   |
+   {Token.kind==word, Token.category==RBS}
+   )
+   
+   
+   ({Token.kind==word, Token.category==CC}
+   |
+   {Token.kind==word, Token.category==DT}
+   |
+   {Token.kind==word, Token.category==IN}
+   |
+   {Lookup.majorType == "organization"}
+   )
+   
+   
+   ({Token.kind==word, Token.category==VB}
+   |
+   {Token.kind==word, Token.category==VBG}
+   |
+   {Token.kind==word, Token.category==VBN}
+   )
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   

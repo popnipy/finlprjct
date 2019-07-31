@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mortbay.jetty:jetty:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mortbay/jetty/jetty/unknown/jetty-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mortbay/jetty/jetty/unknown/jetty-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mortbay/jetty/jetty/unknown/jetty-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
