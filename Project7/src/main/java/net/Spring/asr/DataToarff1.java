@@ -13,8 +13,8 @@ import java.io.FileWriter;
 
 public class DataToarff1 {
 
-	public void addData(String[] Actvity, String[] Scenic, String places, int rowcount, DBCollection col, DB db,
-			String Category, String Subject1, String Subject2) throws Exception {
+	public void addData(String[] Price, String[] Availability, String[] Distance, int rowcount, DBCollection col, DB db,
+			String Category, String Subject1, String Subject2,String sub3) throws Exception {
 
 		 System.out.println(Category);
 		DataSource source = new DataSource("E:\\finalProject\\New folder\\" +Category+ ".arff");
@@ -23,10 +23,13 @@ public class DataToarff1 {
 		Instance inst2 = new Instance(2);
 		for (int j = 0; j < rowcount; j++) {
 			// System.out.println("Asir"+Scenic[j]);
-			inst.setValue(trainDataset.attribute(0), Actvity[j]);
-			inst2.setValue(trainDataset.attribute(0), Scenic[j]);
+			inst.setValue(trainDataset.attribute(0), Price[j]);
+			inst2.setValue(trainDataset.attribute(0), Availability[j]);
+			inst3.setValue(trainDataset.attribute(0), Distance[j]);
+			
 			trainDataset.add(inst);
 			trainDataset.add(inst2);
+			trainDataset.add(inst3);
 		}
 		// System.out.println(trainDataset);
 		// int i =1;
@@ -38,7 +41,7 @@ public class DataToarff1 {
 		writer.flush();
 		writer.close();
 		Classiffy c = new Classiffy();
-		c.test(Actvity, Scenic, rowcount, places, col, db, Category, Subject1, Subject2);
+		c.test(Price, Availability, Distance, places, col, db, Category, Subject1, Subject2, Subject3);
 
 	}
 
